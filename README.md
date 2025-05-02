@@ -11,6 +11,12 @@ Developed in **Unreal Engine 5.5.4**, *The Forgotten Trial* is a cinematic singl
 
 As memories unravel and relationships evolve, choices made in battle and conversation shape the fate of the forgotten.
 
+- **Genre**: Tactical RPG / Mystery
+- **Platform**: PC
+- **Engine**: Unreal Engine 5.5
+- **Player Count**: Single-player
+- **Party Size**: 3-4 characters
+
 ---
 
 ## 🔥 Core Features
@@ -78,3 +84,62 @@ All proprietary Unreal Engine assets, third-party tools, and AI systems remain u
 - Epic Games Marketplace Creators  
 - OpenAI + ChatGPT for prototype narrative assistance  
 - Unreal Engine Documentation & Developer Community  
+
+## 📁 Project Structure
+
+- `/Content/Characters` - Character blueprints and assets
+- `/Content/Maps` - Level designs and combat arenas
+- `/Content/UI` - User interface elements
+- `/Source/TheForgottenTrial` - C++ source code
+- `/Content/Dialogue` - Dialogue system and AI integration
+
+## 🎨 Art Style
+
+- Stylized/low-poly visuals
+- Dark fantasy atmosphere
+- Marketplace assets integration
+
+## 🔧 Setup Instructions
+
+1. Clone the repository
+2. Right-click `TheForgottenTrial.uproject` and select "Generate Visual Studio project files"
+3. Open `TheForgottenTrial.sln` in Visual Studio
+4. Build the solution
+5. Launch the project through the Unreal Editor
+
+## 🎭 Characters
+
+- Male Human Paladin
+- Female Elf Wizard
+- Red Dragon
+- Dire Wolf
+- Owl Bear
+
+## 🌍 Environments
+
+- Birch Forest
+- Village Tavern (Interior)
+- Castle Ruins
+- Forest Path
+
+## 📝 Dialogue Format
+
+```
+(Character Name - "Class") Location - [Background]
+Example: (Lyra - "FemaleElfWizard") CastleRuins - [CastleRuins]
+
+For narration:
+(Narrator - "") Location - [Background]
+```
+
+## 🔄 Development Workflow
+
+1. Create feature branch
+2. Implement changes
+3. Test in editor
+4. Submit pull request
+5. Review and merge
+
+## 📜 License
+
+See LICENSE file for details.
