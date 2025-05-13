@@ -1843,3 +1843,763 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.05.13-20.54.28:319][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.400818
 [2025.05.13-20.54.29:321][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.13-20.54.29:321][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.067413, Update Interval: 317.476135
+[2025.05.13-20.55.37:285][859]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.55.37:291][859]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.55.37:301][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.55.38:649][941]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2025.05.13-20.55.38:649][941]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.55.41:864][ 84]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.55.41:870][ 84]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.55.41:903][ 86]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.55.46:213][345]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2025.05.13-20.55.46:213][345]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.55.48:420][443]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.55.48:427][443]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.55.48:435][444]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.55.49:981][536]LogContentBrowser: Attempting asset rename: NewFolder -> Music
+[2025.05.13-20.55.49:982][536]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.56.14:358][743]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\GnomesVsCamelot-Master\GnomesVsCamelot-Master\GnomeVsKnights\Assets\Audio\Music\Beautiful Village.mp3)
+[2025.05.13-20.56.14:652][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Beautiful_Village...
+[2025.05.13-20.56.15:548][743]LogAudioDerivedData: Display: Beautiful_Village compressed to 16.03% (from 32,719KB to 5,245KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.15:556][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/Beautiful_Village.Beautiful_Village: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=260521 bytes, ChunkN=260821)
+[2025.05.13-20.56.15:572][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Beautiful_Village...
+[2025.05.13-20.56.15:583][743]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\mysterious-ambient-atmosphere.mp3)
+[2025.05.13-20.56.15:686][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave mysterious-ambient-atmosphere...
+[2025.05.13-20.56.15:968][743]LogAudioDerivedData: Display: mysterious-ambient-atmosphere compressed to 15.70% (from 10,530KB to 1,653KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.15:970][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/mysterious-ambient-atmosphere.mysterious-ambient-atmosphere: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=8, Chunk0=28 bytes, Chunk1=261501 bytes, ChunkN=261285)
+[2025.05.13-20.56.15:974][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave mysterious-ambient-atmosphere...
+[2025.05.13-20.56.15:998][743]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\dwarven-forges.mp3)
+[2025.05.13-20.56.16:261][743]LogAudioDerivedData: Display: mysterious-ambient-atmosphere compressed to 15.70% (from 10,530KB to 1,653KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.16:265][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/mysterious-ambient-atmosphere.mysterious-ambient-atmosphere: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=8, Chunk0=28 bytes, Chunk1=261501 bytes, ChunkN=261285)
+[2025.05.13-20.56.16:418][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave dwarven-forges...
+[2025.05.13-20.56.16:481][743]LogAudioDerivedData: Display: Beautiful_Village compressed to 16.03% (from 32,719KB to 5,245KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.16:491][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/Beautiful_Village.Beautiful_Village: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=260521 bytes, ChunkN=260821)
+[2025.05.13-20.56.17:422][743]LogAudioDerivedData: Display: dwarven-forges compressed to 17.70% (from 37,300KB to 6,602KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.17:436][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/dwarven-forges.dwarven-forges: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=27, Chunk0=28 bytes, Chunk1=261513 bytes, ChunkN=261367)
+[2025.05.13-20.56.17:454][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave dwarven-forges...
+[2025.05.13-20.56.17:470][743]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\epic-dungeon-beat.mp3)
+[2025.05.13-20.56.17:578][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave epic-dungeon-beat...
+[2025.05.13-20.56.17:845][743]LogAudioDerivedData: Display: epic-dungeon-beat compressed to 13.88% (from 10,264KB to 1,424KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.17:848][743]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/epic-dungeon-beat.epic-dungeon-beat: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=7, Chunk0=28 bytes, Chunk1=261247 bytes, ChunkN=261841)
+[2025.05.13-20.56.17:852][743]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave epic-dungeon-beat...
+[2025.05.13-20.56.18:142][750]LogAudioDerivedData: Display: epic-dungeon-beat compressed to 13.88% (from 10,264KB to 1,424KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.18:145][750]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/epic-dungeon-beat.epic-dungeon-beat: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=7, Chunk0=28 bytes, Chunk1=261247 bytes, ChunkN=261841)
+[2025.05.13-20.56.18:576][762]LogAudioDerivedData: Display: dwarven-forges compressed to 17.70% (from 37,300KB to 6,602KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.18:599][763]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/dwarven-forges.dwarven-forges: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=27, Chunk0=28 bytes, Chunk1=261513 bytes, ChunkN=261367)
+[2025.05.13-20.56.27:728][910]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\GnomesVsCamelot-Master\GnomesVsCamelot-Master\GnomeVsKnights\Assets\Audio\Music\Relaxing Green Nature.mp3)
+[2025.05.13-20.56.28:094][910]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Relaxing_Green_Nature...
+[2025.05.13-20.56.29:110][910]LogAudioDerivedData: Display: Relaxing_Green_Nature compressed to 13.73% (from 38,461KB to 5,281KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.29:121][910]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/Relaxing_Green_Nature.Relaxing_Green_Nature: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=260805 bytes, ChunkN=261059)
+[2025.05.13-20.56.29:132][910]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Relaxing_Green_Nature...
+[2025.05.13-20.56.30:009][914]LogAudioDerivedData: Display: Relaxing_Green_Nature compressed to 13.73% (from 38,461KB to 5,281KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.30:019][914]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Music/Relaxing_Green_Nature.Relaxing_Green_Nature: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=260805 bytes, ChunkN=261059)
+[2025.05.13-20.56.40:468][ 47]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\magical-twinkle.mp3)
+[2025.05.13-20.56.40:475][ 47]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave magical-twinkle...
+[2025.05.13-20.56.40:488][ 47]LogAudioDerivedData: Display: magical-twinkle compressed to 9.81% (from 693KB to 68KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.40:488][ 47]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/magical-twinkle.magical-twinkle: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69621 bytes, ChunkN=0)
+[2025.05.13-20.56.40:489][ 47]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave magical-twinkle...
+[2025.05.13-20.56.40:504][ 48]LogAudioDerivedData: Display: magical-twinkle compressed to 9.81% (from 693KB to 68KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.40:505][ 48]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/magical-twinkle.magical-twinkle: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69621 bytes, ChunkN=0)
+[2025.05.13-20.56.49:284][101]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\GnomesVsCamelot-Master\GnomesVsCamelot-Master\GnomeVsKnights\Assets\Audio\Sound Effects\sword-block-the-ballad-of-blades-257226.mp3)
+[2025.05.13-20.56.51:844][101]LogSlate: Window 'Message' being destroyed
+[2025.05.13-20.56.51:861][101]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'magical-twinkle' in the Content Browser as a template for sound(s) being imported?
+[2025.05.13-20.56.51:863][101]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sword-block-the-ballad-of-blades-257226...
+[2025.05.13-20.56.51:866][101]LogAudioDerivedData: Display: sword-block-the-ballad-of-blades-257226 compressed to 13.55% (from 157KB to 21KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.51:868][101]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/sword-block-the-ballad-of-blades-257226.sword-block-the-ballad-of-blades-257226: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21841 bytes, ChunkN=0)
+[2025.05.13-20.56.51:868][101]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sword-block-the-ballad-of-blades-257226...
+[2025.05.13-20.56.51:872][101]LogAudioDerivedData: Display: sword-block-the-ballad-of-blades-257226 compressed to 13.55% (from 157KB to 21KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.56.51:873][101]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/sword-block-the-ballad-of-blades-257226.sword-block-the-ballad-of-blades-257226: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=21841 bytes, ChunkN=0)
+[2025.05.13-20.57.01:898][600]LogContentBrowser: Attempting asset rename: sword-block-the-ballad-of-blades-257226 -> sword-block
+[2025.05.13-20.57.02:032][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.02:032][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-block] ([1] browsable assets)...
+[2025.05.13-20.57.02:035][600]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-block.sword-block]
+[2025.05.13-20.57.02:035][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-block]
+[2025.05.13-20.57.02:035][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/sword-block" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-block.uasset" SILENT=true
+[2025.05.13-20.57.02:038][600]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-block
+[2025.05.13-20.57.02:038][600]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/sword-blockE924E745488B10B00653A48B5298B18D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-block.uasset'
+[2025.05.13-20.57.02:039][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.683 ms (total: 646.456 ms)
+[2025.05.13-20.57.02:078][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.13-20.57.02:091][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.13-20.57.02:104][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.13-20.57.02:219][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.02:219][600]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.02:219][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.02:219][600]AssetCheck: /Game/Audio/SFX/sword-block Validating asset
+[2025.05.13-20.57.06:169][757]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\GnomesVsCamelot-Master\GnomesVsCamelot-Master\GnomeVsKnights\Assets\Audio\Sound Effects\sword-schwing-40520.mp3)
+[2025.05.13-20.57.07:975][757]LogSlate: Window 'Message' being destroyed
+[2025.05.13-20.57.07:992][757]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'sword-block' in the Content Browser as a template for sound(s) being imported?
+[2025.05.13-20.57.07:994][757]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sword-schwing-40520...
+[2025.05.13-20.57.07:999][757]LogAudioDerivedData: Display: sword-schwing-40520 compressed to 21.34% (from 164KB to 35KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.57.07:999][757]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/sword-schwing-40520.sword-schwing-40520: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=35887 bytes, ChunkN=0)
+[2025.05.13-20.57.08:000][757]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sword-schwing-40520...
+[2025.05.13-20.57.08:004][757]LogAudioDerivedData: Display: sword-schwing-40520 compressed to 21.34% (from 164KB to 35KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.05.13-20.57.08:004][757]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SFX/sword-schwing-40520.sword-schwing-40520: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=35887 bytes, ChunkN=0)
+[2025.05.13-20.57.14:894][ 73]LogContentBrowser: Attempting asset rename: sword-schwing-40520 -> sword-schwing
+[2025.05.13-20.57.15:040][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.15:040][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-schwing] ([1] browsable assets)...
+[2025.05.13-20.57.15:042][ 73]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-schwing.sword-schwing]
+[2025.05.13-20.57.15:042][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-schwing]
+[2025.05.13-20.57.15:042][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/sword-schwing" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-schwing.uasset" SILENT=true
+[2025.05.13-20.57.15:045][ 73]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-schwing
+[2025.05.13-20.57.15:045][ 73]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/sword-schwing9F7EADFD40631552F97309889A25DDC1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-schwing.uasset'
+[2025.05.13-20.57.15:046][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.980 ms (total: 652.437 ms)
+[2025.05.13-20.57.15:070][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.13-20.57.15:081][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.05.13-20.57.15:095][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.15:212][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.15:212][ 73]AssetCheck: /Game/Audio/SFX/sword-schwing Validating asset
+[2025.05.13-20.57.18:803][248]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.13-20.57.22:385][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.13-20.57.22:390][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.22:458][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/buttonUIimg] ([1] browsable assets)...
+[2025.05.13-20.57.22:473][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/buttonUIimg.buttonUIimg]
+[2025.05.13-20.57.22:473][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/buttonUIimg]
+[2025.05.13-20.57.22:473][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/buttonUIimg" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/buttonUIimg.uasset" SILENT=true
+[2025.05.13-20.57.22:476][412]LogSavePackage: Moving output files for package: /Game/Art/buttonUIimg
+[2025.05.13-20.57.22:476][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/buttonUIimgD97679A84C5B0B946BCD3089220A55BB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/buttonUIimg.uasset'
+[2025.05.13-20.57.22:476][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/TFTbannerIMG] ([1] browsable assets)...
+[2025.05.13-20.57.22:478][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/TFTbannerIMG.TFTbannerIMG]
+[2025.05.13-20.57.22:478][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/TFTbannerIMG]
+[2025.05.13-20.57.22:478][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TFTbannerIMG" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTbannerIMG.uasset" SILENT=true
+[2025.05.13-20.57.22:500][412]LogSavePackage: Moving output files for package: /Game/Art/TFTbannerIMG
+[2025.05.13-20.57.22:500][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/TFTbannerIMG6AAE60494A0C860DB99C15A2B3267D7B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTbannerIMG.uasset'
+[2025.05.13-20.57.22:502][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/El_Camino_Olvidado] ([1] browsable assets)...
+[2025.05.13-20.57.22:505][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/El_Camino_Olvidado.El_Camino_Olvidado]
+[2025.05.13-20.57.22:505][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/El_Camino_Olvidado]
+[2025.05.13-20.57.22:505][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/El_Camino_Olvidado" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/El_Camino_Olvidado.uasset" SILENT=true
+[2025.05.13-20.57.22:528][412]LogSavePackage: Moving output files for package: /Game/Art/El_Camino_Olvidado
+[2025.05.13-20.57.22:528][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/El_Camino_Olvidado4D93E3C14944F74D52393FA0B13B72FF.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/El_Camino_Olvidado.uasset'
+[2025.05.13-20.57.22:530][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/PGSprofileImage] ([1] browsable assets)...
+[2025.05.13-20.57.22:534][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/PGSprofileImage.PGSprofileImage]
+[2025.05.13-20.57.22:534][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/PGSprofileImage]
+[2025.05.13-20.57.22:534][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/PGSprofileImage" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/PGSprofileImage.uasset" SILENT=true
+[2025.05.13-20.57.22:554][412]LogSavePackage: Moving output files for package: /Game/Art/PGSprofileImage
+[2025.05.13-20.57.22:554][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/PGSprofileImageA9A63E7B4D133CC404A41DACD840834B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/PGSprofileImage.uasset'
+[2025.05.13-20.57.22:555][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/TFTprofileImage] ([1] browsable assets)...
+[2025.05.13-20.57.22:558][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/TFTprofileImage.TFTprofileImage]
+[2025.05.13-20.57.22:558][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/TFTprofileImage]
+[2025.05.13-20.57.22:558][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TFTprofileImage" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTprofileImage.uasset" SILENT=true
+[2025.05.13-20.57.22:579][412]LogSavePackage: Moving output files for package: /Game/Art/TFTprofileImage
+[2025.05.13-20.57.22:580][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/TFTprofileImage6F6027E341BE827B7305AD8364DE178D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTprofileImage.uasset'
+[2025.05.13-20.57.22:581][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Serene_Portrait_with_Golden_Details] ([1] browsable assets)...
+[2025.05.13-20.57.22:584][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Serene_Portrait_with_Golden_Details.Serene_Portrait_with_Golden_Details]
+[2025.05.13-20.57.22:584][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Serene_Portrait_with_Golden_Details]
+[2025.05.13-20.57.22:584][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Serene_Portrait_with_Golden_Details" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Serene_Portrait_with_Golden_Details.uasset" SILENT=true
+[2025.05.13-20.57.22:609][412]LogSavePackage: Moving output files for package: /Game/Art/Serene_Portrait_with_Golden_Details
+[2025.05.13-20.57.22:609][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Serene_Portrait_with_Golden_DetaEBC461B046FCB2470D587EB761047FF1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Serene_Portrait_with_Golden_Details.uasset'
+[2025.05.13-20.57.22:610][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/TFT_Social_Image] ([1] browsable assets)...
+[2025.05.13-20.57.22:613][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/TFT_Social_Image.TFT_Social_Image]
+[2025.05.13-20.57.22:613][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/TFT_Social_Image]
+[2025.05.13-20.57.22:613][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TFT_Social_Image" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFT_Social_Image.uasset" SILENT=true
+[2025.05.13-20.57.22:620][412]LogSavePackage: Moving output files for package: /Game/Art/TFT_Social_Image
+[2025.05.13-20.57.22:620][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/TFT_Social_Image3EBB4D8247D401990E142D95A59FAAB4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFT_Social_Image.uasset'
+[2025.05.13-20.57.22:620][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Regal_Lion_with_Electric_Blue_Mane] ([1] browsable assets)...
+[2025.05.13-20.57.22:622][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Regal_Lion_with_Electric_Blue_Mane.Regal_Lion_with_Electric_Blue_Mane]
+[2025.05.13-20.57.22:623][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Regal_Lion_with_Electric_Blue_Mane]
+[2025.05.13-20.57.22:623][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Regal_Lion_with_Electric_Blue_Mane" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Regal_Lion_with_Electric_Blue_Mane.uasset" SILENT=true
+[2025.05.13-20.57.22:640][412]LogSavePackage: Moving output files for package: /Game/Art/Regal_Lion_with_Electric_Blue_Mane
+[2025.05.13-20.57.22:640][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Regal_Lion_with_Electric_Blue_Ma2DA7937D4AE611031B37BB8F2AD29DE0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Regal_Lion_with_Electric_Blue_Mane.uasset'
+[2025.05.13-20.57.22:641][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/192x192] ([1] browsable assets)...
+[2025.05.13-20.57.22:643][412]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/192x192.192x192]
+[2025.05.13-20.57.22:643][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/192x192]
+[2025.05.13-20.57.22:643][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/192x192" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/192x192.uasset" SILENT=true
+[2025.05.13-20.57.22:646][412]LogSavePackage: Moving output files for package: /Game/Art/192x192
+[2025.05.13-20.57.22:646][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/192x192464401C14E5B72C50DDD4B804C81B9B9.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/192x192.uasset'
+[2025.05.13-20.57.22:646][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/Beautiful_Village] ([1] browsable assets)...
+[2025.05.13-20.57.22:702][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/Beautiful_Village.Beautiful_Village]
+[2025.05.13-20.57.22:702][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/Beautiful_Village]
+[2025.05.13-20.57.22:702][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/Beautiful_Village" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Beautiful_Village.uasset" SILENT=true
+[2025.05.13-20.57.22:773][412]LogSavePackage: Moving output files for package: /Game/Audio/Music/Beautiful_Village
+[2025.05.13-20.57.22:773][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Beautiful_Village836FC9854D0516F3C4871BADD72FB928.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Beautiful_Village.uasset'
+[2025.05.13-20.57.22:774][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/mysterious-ambient-atmosphere] ([1] browsable assets)...
+[2025.05.13-20.57.22:795][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/mysterious-ambient-atmosphere.mysterious-ambient-atmosphere]
+[2025.05.13-20.57.22:795][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/mysterious-ambient-atmosphere]
+[2025.05.13-20.57.22:824][412]LogSavePackage: Moving output files for package: /Game/Audio/Music/mysterious-ambient-atmosphere
+[2025.05.13-20.57.22:824][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/mysterious-ambient-atmosphere42BBECAD4F6D365AFDA157B61C7045CE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/mysterious-ambient-atmosphere.uasset'
+[2025.05.13-20.57.22:825][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/dwarven-forges] ([1] browsable assets)...
+[2025.05.13-20.57.22:885][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/dwarven-forges.dwarven-forges]
+[2025.05.13-20.57.22:885][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/dwarven-forges]
+[2025.05.13-20.57.22:885][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/dwarven-forges" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/dwarven-forges.uasset" SILENT=true
+[2025.05.13-20.57.22:971][412]LogSavePackage: Moving output files for package: /Game/Audio/Music/dwarven-forges
+[2025.05.13-20.57.22:971][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/dwarven-forges7EC243CF4E1A822D50AAD6B71B68D333.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/dwarven-forges.uasset'
+[2025.05.13-20.57.22:973][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/epic-dungeon-beat] ([1] browsable assets)...
+[2025.05.13-20.57.22:991][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/epic-dungeon-beat.epic-dungeon-beat]
+[2025.05.13-20.57.22:991][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/epic-dungeon-beat]
+[2025.05.13-20.57.22:991][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/epic-dungeon-beat" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/epic-dungeon-beat.uasset" SILENT=true
+[2025.05.13-20.57.23:014][412]LogSavePackage: Moving output files for package: /Game/Audio/Music/epic-dungeon-beat
+[2025.05.13-20.57.23:014][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/epic-dungeon-beat92F4A18D44ACB2363854C8B015B78B98.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/epic-dungeon-beat.uasset'
+[2025.05.13-20.57.23:015][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/Relaxing_Green_Nature] ([1] browsable assets)...
+[2025.05.13-20.57.23:073][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/Relaxing_Green_Nature.Relaxing_Green_Nature]
+[2025.05.13-20.57.23:073][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/Relaxing_Green_Nature]
+[2025.05.13-20.57.23:073][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/Relaxing_Green_Nature" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Relaxing_Green_Nature.uasset" SILENT=true
+[2025.05.13-20.57.23:145][412]LogSavePackage: Moving output files for package: /Game/Audio/Music/Relaxing_Green_Nature
+[2025.05.13-20.57.23:145][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Relaxing_Green_Nature1B4F66DD432CE4134FE5F0A7779FDEFC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Relaxing_Green_Nature.uasset'
+[2025.05.13-20.57.23:147][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/magical-twinkle] ([1] browsable assets)...
+[2025.05.13-20.57.23:150][412]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/magical-twinkle.magical-twinkle]
+[2025.05.13-20.57.23:150][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/magical-twinkle]
+[2025.05.13-20.57.23:150][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/magical-twinkle" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/magical-twinkle.uasset" SILENT=true
+[2025.05.13-20.57.23:156][412]LogSavePackage: Moving output files for package: /Game/Audio/SFX/magical-twinkle
+[2025.05.13-20.57.23:156][412]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/magical-twinkle8C7110B146C356E8FC7D63B2E01B60FC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/magical-twinkle.uasset'
+[2025.05.13-20.57.23:183][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 793.057 ms (total: 1.44 sec)
+[2025.05.13-20.57.23:277][412]LogContentValidation: Display: Starting to validate 15 assets
+[2025.05.13-20.57.23:277][412]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.23:277][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/buttonUIimg Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/TFTbannerIMG Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/El_Camino_Olvidado Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/PGSprofileImage Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/TFTprofileImage Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/Serene_Portrait_with_Golden_Details Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/TFT_Social_Image Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/Regal_Lion_with_Electric_Blue_Mane Validating asset
+[2025.05.13-20.57.23:277][412]AssetCheck: /Game/Art/192x192 Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/Music/Beautiful_Village Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/Music/mysterious-ambient-atmosphere Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/Music/dwarven-forges Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/Music/epic-dungeon-beat Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/Music/Relaxing_Green_Nature Validating asset
+[2025.05.13-20.57.23:278][412]AssetCheck: /Game/Audio/SFX/magical-twinkle Validating asset
+[2025.05.13-20.57.24:925][486]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX/magical-twinkle.magical-twinkle
+[2025.05.13-20.57.27:910][565]LogSlate: Took 0.004688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.13-20.57.35:020][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.35:160][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/magical-twinkle] ([1] browsable assets)...
+[2025.05.13-20.57.35:172][793]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/magical-twinkle.magical-twinkle]
+[2025.05.13-20.57.35:172][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/magical-twinkle]
+[2025.05.13-20.57.35:172][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/magical-twinkle" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/magical-twinkle.uasset" SILENT=true
+[2025.05.13-20.57.35:177][793]LogSavePackage: Moving output files for package: /Game/Audio/SFX/magical-twinkle
+[2025.05.13-20.57.35:178][793]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/magical-twinkle75E292894F214F8A6C925D8EB3A51BB2.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/magical-twinkle.uasset'
+[2025.05.13-20.57.35:203][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.525 ms (total: 1.63 sec)
+[2025.05.13-20.57.35:290][793]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.35:290][793]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.35:290][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.35:290][793]AssetCheck: /Game/Audio/SFX/magical-twinkle Validating asset
+[2025.05.13-20.57.35:807][808]LogSlate: Window 'magical-twinkle' being destroyed
+[2025.05.13-20.57.36:578][840]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX/sword-block.sword-block
+[2025.05.13-20.57.40:272][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.40:421][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-block] ([1] browsable assets)...
+[2025.05.13-20.57.40:436][931]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-block.sword-block]
+[2025.05.13-20.57.40:436][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-block]
+[2025.05.13-20.57.40:436][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/sword-block" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-block.uasset" SILENT=true
+[2025.05.13-20.57.40:439][931]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-block
+[2025.05.13-20.57.40:440][931]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/sword-blockD9D074F24411821BCD6114A001494222.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-block.uasset'
+[2025.05.13-20.57.40:468][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.425 ms (total: 1.82 sec)
+[2025.05.13-20.57.40:554][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.40:554][931]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.40:554][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.40:554][931]AssetCheck: /Game/Audio/SFX/sword-block Validating asset
+[2025.05.13-20.57.41:988][977]LogSlate: Window 'sword-block' being destroyed
+[2025.05.13-20.57.42:044][977]LogSlate: Window 'sword-block' being destroyed
+[2025.05.13-20.57.43:018][ 22]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX/sword-schwing.sword-schwing
+[2025.05.13-20.57.46:111][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.46:242][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SFX/sword-schwing] ([1] browsable assets)...
+[2025.05.13-20.57.46:258][ 96]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SFX/sword-schwing.sword-schwing]
+[2025.05.13-20.57.46:258][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/sword-schwing]
+[2025.05.13-20.57.46:258][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/sword-schwing" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-schwing.uasset" SILENT=true
+[2025.05.13-20.57.46:260][ 96]LogSavePackage: Moving output files for package: /Game/Audio/SFX/sword-schwing
+[2025.05.13-20.57.46:260][ 96]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/sword-schwing32037DB64B6188715860B0B4BBF05D44.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-schwing.uasset'
+[2025.05.13-20.57.46:288][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.045 ms (total: 2.00 sec)
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.46:388][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.46:388][ 96]AssetCheck: /Game/Audio/SFX/sword-schwing Validating asset
+[2025.05.13-20.57.47:171][121]LogSlate: Window 'sword-schwing' being destroyed
+[2025.05.13-20.57.47:242][121]LogSlate: Window 'sword-schwing' being destroyed
+[2025.05.13-20.57.48:998][188]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/Beautiful_Village.Beautiful_Village
+[2025.05.13-20.57.52:583][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.52:704][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/Beautiful_Village] ([1] browsable assets)...
+[2025.05.13-20.57.52:755][268]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/Beautiful_Village.Beautiful_Village]
+[2025.05.13-20.57.52:755][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/Beautiful_Village]
+[2025.05.13-20.57.52:755][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/Beautiful_Village" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Beautiful_Village.uasset" SILENT=true
+[2025.05.13-20.57.52:822][268]LogSavePackage: Moving output files for package: /Game/Audio/Music/Beautiful_Village
+[2025.05.13-20.57.52:823][268]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Beautiful_Village8099645C43C8A0D6A7D3E78179A0E813.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Beautiful_Village.uasset'
+[2025.05.13-20.57.52:848][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 265.222 ms (total: 2.26 sec)
+[2025.05.13-20.57.52:942][268]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.52:942][268]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.52:942][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.52:942][268]AssetCheck: /Game/Audio/Music/Beautiful_Village Validating asset
+[2025.05.13-20.57.54:308][310]LogSlate: Window 'Beautiful_Village' being destroyed
+[2025.05.13-20.57.54:364][310]LogSlate: Window 'Beautiful_Village' being destroyed
+[2025.05.13-20.57.55:183][341]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/dwarven-forges.dwarven-forges
+[2025.05.13-20.57.59:223][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.57.59:374][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/dwarven-forges] ([1] browsable assets)...
+[2025.05.13-20.57.59:431][435]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/dwarven-forges.dwarven-forges]
+[2025.05.13-20.57.59:432][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/dwarven-forges]
+[2025.05.13-20.57.59:432][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/dwarven-forges" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/dwarven-forges.uasset" SILENT=true
+[2025.05.13-20.57.59:521][435]LogSavePackage: Moving output files for package: /Game/Audio/Music/dwarven-forges
+[2025.05.13-20.57.59:522][435]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/dwarven-forges7647B93D4B4E3F540692D28CAAD68D56.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/dwarven-forges.uasset'
+[2025.05.13-20.57.59:548][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.735 ms (total: 2.59 sec)
+[2025.05.13-20.57.59:637][435]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.57.59:637][435]LogContentValidation: Enabled validators:
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.57.59:637][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.57.59:637][435]AssetCheck: /Game/Audio/Music/dwarven-forges Validating asset
+[2025.05.13-20.58.00:234][452]LogSlate: Window 'dwarven-forges' being destroyed
+[2025.05.13-20.58.00:303][452]LogSlate: Window 'dwarven-forges' being destroyed
+[2025.05.13-20.58.01:262][498]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/epic-dungeon-beat.epic-dungeon-beat
+[2025.05.13-20.58.05:188][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.58.05:330][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/epic-dungeon-beat] ([1] browsable assets)...
+[2025.05.13-20.58.05:346][589]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/epic-dungeon-beat.epic-dungeon-beat]
+[2025.05.13-20.58.05:346][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/epic-dungeon-beat]
+[2025.05.13-20.58.05:346][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/epic-dungeon-beat" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/epic-dungeon-beat.uasset" SILENT=true
+[2025.05.13-20.58.05:364][589]LogSavePackage: Moving output files for package: /Game/Audio/Music/epic-dungeon-beat
+[2025.05.13-20.58.05:365][589]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/epic-dungeon-beat4A1141B44B8BABBEF989E1B412256362.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/epic-dungeon-beat.uasset'
+[2025.05.13-20.58.05:388][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.021 ms (total: 2.79 sec)
+[2025.05.13-20.58.05:480][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.58.05:481][589]LogContentValidation: Enabled validators:
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.58.05:481][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.58.05:481][589]AssetCheck: /Game/Audio/Music/epic-dungeon-beat Validating asset
+[2025.05.13-20.58.06:095][606]LogSlate: Window 'epic-dungeon-beat' being destroyed
+[2025.05.13-20.58.07:023][639]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/mysterious-ambient-atmosphere.mysterious-ambient-atmosphere
+[2025.05.13-20.58.10:122][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.58.10:264][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/mysterious-ambient-atmosphere] ([1] browsable assets)...
+[2025.05.13-20.58.10:283][712]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/mysterious-ambient-atmosphere.mysterious-ambient-atmosphere]
+[2025.05.13-20.58.10:283][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/mysterious-ambient-atmosphere]
+[2025.05.13-20.58.10:311][712]LogSavePackage: Moving output files for package: /Game/Audio/Music/mysterious-ambient-atmosphere
+[2025.05.13-20.58.10:312][712]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/mysterious-ambient-atmosphere7440D2604F9D4D303896BDB926F6B83B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/mysterious-ambient-atmosphere.uasset'
+[2025.05.13-20.58.10:336][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.584 ms (total: 3.00 sec)
+[2025.05.13-20.58.10:431][712]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.58.10:431][712]LogContentValidation: Enabled validators:
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.58.10:431][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.58.10:431][712]AssetCheck: /Game/Audio/Music/mysterious-ambient-atmosphere Validating asset
+[2025.05.13-20.58.11:220][736]LogSlate: Window 'mysterious-ambient-atmosphere' being destroyed
+[2025.05.13-20.58.11:276][736]LogSlate: Window 'mysterious-ambient-atmosphere' being destroyed
+[2025.05.13-20.58.12:241][766]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/Relaxing_Green_Nature.Relaxing_Green_Nature
+[2025.05.13-20.58.15:946][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.58.16:097][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Music/Relaxing_Green_Nature] ([1] browsable assets)...
+[2025.05.13-20.58.16:152][846]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Music/Relaxing_Green_Nature.Relaxing_Green_Nature]
+[2025.05.13-20.58.16:152][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Music/Relaxing_Green_Nature]
+[2025.05.13-20.58.16:152][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/Relaxing_Green_Nature" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Relaxing_Green_Nature.uasset" SILENT=true
+[2025.05.13-20.58.16:221][846]LogSavePackage: Moving output files for package: /Game/Audio/Music/Relaxing_Green_Nature
+[2025.05.13-20.58.16:222][846]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Relaxing_Green_Nature6ED955304479F566851246ADC6067460.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Relaxing_Green_Nature.uasset'
+[2025.05.13-20.58.16:247][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 300.208 ms (total: 3.30 sec)
+[2025.05.13-20.58.16:343][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.58.16:343][846]LogContentValidation: Enabled validators:
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.58.16:343][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.58.16:343][846]AssetCheck: /Game/Audio/Music/Relaxing_Green_Nature Validating asset
+[2025.05.13-20.58.16:890][860]LogSlate: Window 'Relaxing_Green_Nature' being destroyed
+[2025.05.13-20.58.31:820][182]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_0
+[2025.05.13-20.58.31:871][182]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:\Users\Trevor Hicks\Downloads\GnomesVsCamelot-Master\GnomesVsCamelot-Master\GnomeVsKnights\Assets\Video\VIDEO___FHD.mp4)
+[2025.05.13-20.58.36:338][222]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/VIDEO___FHD.VIDEO___FHD
+[2025.05.13-20.58.39:495][312]LogSlate: Window 'VIDEO___FHD' being destroyed
+[2025.05.13-20.58.46:726][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.58.46:833][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/VIDEO___FHD] ([1] browsable assets)...
+[2025.05.13-20.58.46:833][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/VIDEO___FHD]
+[2025.05.13-20.58.46:833][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/VIDEO___FHD" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Movies/VIDEO___FHD.uasset" SILENT=true
+[2025.05.13-20.58.46:834][692]LogSavePackage: Moving output files for package: /Game/Movies/VIDEO___FHD
+[2025.05.13-20.58.46:834][692]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/VIDEO___FHD4B240EAC42DD0B67C3932CB3330C48E8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Movies/VIDEO___FHD.uasset'
+[2025.05.13-20.58.46:879][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.653 ms (total: 3.46 sec)
+[2025.05.13-20.58.46:966][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.58.46:966][692]LogContentValidation: Enabled validators:
+[2025.05.13-20.58.46:966][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.58.46:966][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.58.46:967][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.58.46:967][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.58.46:967][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.58.46:967][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.58.46:967][692]AssetCheck: /Game/Movies/VIDEO___FHD Validating asset
+[2025.05.13-20.59.05:686][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.13-20.59.05:692][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.59.05:772][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Movies/VIDEO___FHD] ([1] browsable assets)...
+[2025.05.13-20.59.05:787][574]OBJ SavePackage:     Rendered thumbnail for [FileMediaSource /Game/Movies/VIDEO___FHD.VIDEO___FHD]
+[2025.05.13-20.59.05:787][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/VIDEO___FHD]
+[2025.05.13-20.59.05:787][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/VIDEO___FHD" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Movies/VIDEO___FHD.uasset" SILENT=true
+[2025.05.13-20.59.05:788][574]LogSavePackage: Moving output files for package: /Game/Movies/VIDEO___FHD
+[2025.05.13-20.59.05:789][574]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/VIDEO___FHDA9F7A44644CE7BE6B35C1D931C0A562E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Movies/VIDEO___FHD.uasset'
+[2025.05.13-20.59.05:818][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.789 ms (total: 3.58 sec)
+[2025.05.13-20.59.05:906][574]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.59.05:906][574]LogContentValidation: Enabled validators:
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.59.05:906][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.59.05:908][574]AssetCheck: /Game/Movies/VIDEO___FHD Validating asset
+[2025.05.13-20.59.10:482][780]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.13-20.59.19:495][223]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.59.19:502][223]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.59.19:511][224]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.59.24:262][509]LogContentBrowser: Attempting asset rename: NewFolder -> GameLevels
+[2025.05.13-20.59.24:262][509]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.59.27:571][642]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.05.13-20.59.27:579][642]LogContentBrowser: Creating deferred item: NewWorld
+[2025.05.13-20.59.27:611][644]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.05.13-20.59.32:942][964]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuScreen
+[2025.05.13-20.59.32:942][964]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenuScreen
+[2025.05.13-20.59.32:944][964]LogContentBrowser: End creating deferred item NewWorld
+[2025.05.13-20.59.52:658][216]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.13-20.59.52:806][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.13-20.59.52:821][216]LogChaosDD: Creating Chaos Debug Draw Scene for world StartingLevel
+[2025.05.13-20.59.52:822][216]LogWorldPartition: ULevel::OnLevelLoaded(StartingLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.13-20.59.52:822][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.13-20.59.52:822][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/GameLevels/StartingLevel.StartingLevel, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.13-20.59.52:822][216]LogWorldPartition: Display: WorldPartition initialize took 357 us (total: 45.623 ms)
+[2025.05.13-20.59.52:828][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLevels/StartingLevel" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/GameLevels/StartingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.13-20.59.52:843][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.13-20.59.52:849][216]LogSavePackage: Moving output files for package: /Game/GameLevels/StartingLevel
+[2025.05.13-20.59.52:849][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/StartingLevel2E75138546E7D6B1F8A0C78604277018.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/GameLevels/StartingLevel.umap'
+[2025.05.13-20.59.52:858][216]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/GameLevels/StartingLevel/9/AQ/0OWF1VXC1V1UA5NL7YAGK4
+/Game/__ExternalActors__/GameLevels/StartingLevel/8/ED/W5370OEMIQXTYEKLB7KCUQ
+/Game/__ExternalActors__/GameLevels/StartingLevel/7/ZR/CT5OTKJEKIPL1AVRLOPZNV
+/Game/__ExternalActors__/GameLevels/StartingLevel/7/G6/KT98P26WA2E0JQS0TNFI1C
+/Game/__ExternalActors__/GameLevels/StartingLevel/8/F7/MTGDB9BBTQ4703OZUH9TUA
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/6P/M3KSR0X5XEVYRB18FKX5CZ
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/UM/G0J4VCPQ2GJ2DMZPI2IZKG
+/Game/__ExternalActors__/GameLevels/StartingLevel/0/BL/JCN8N9BNDHZPG3QOT9SZSF
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/02/R0PG0DB73F9XLVT9NG3E3C
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/M7/E91WJR7JCEE22Z7CL1EGVH
+/Game/__ExternalActors__/GameLevels/StartingLevel/F/1R/N7L73NUVMBJUP3M4XLE7M4
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/W3/0I1PVQ5DI4DFGAMFMWLXQH
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/H4/A3MX9D3L5GLOHECG3LMEBW
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/MH/NEQJXGCFX90NTVFBQM3OBE
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/72/LIRQVFOGY7JG5FTGO3FMSK
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/0O/GQ18KGWKCYL1JYLJKGNHF8
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/HK/E6U51X2Y6A8KY73FAH0V4G
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/93/IYXSRG49RP2613XNUQEHCE
+/Game/__ExternalActors__/GameLevels/StartingLevel/2/3U/XSI8HP6KX0AGB1U9VHGPP9
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/8C/9VLEG5MTZFQDAVJ8CK3ZK0
+/Game/__ExternalActors__/GameLevels/StartingLevel/2/96/MQW62YOIQBQR1H2BNLOVZ6
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/LN/SP8UQKUAC8IHE76VR4XH7L
+/Game/__ExternalActors__/GameLevels/StartingLevel/F/4W/Y6MW60U0FOJJGWL6H71KNW
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/NA/RLUEVELJAQI6K0GPE7M5OJ
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/7Z/MFI9I0M2Y3EH0FBXCEI8EY
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/8E/H2R1C4R9H9V9VRIZAXFAGT
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/M0/VOGZ8ES3JBY4MOCE8GL4NM
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/45/9F868TLD9R13RP4KF7STWB
+/Game/__ExternalActors__/GameLevels/StartingLevel/1/VJ/MXYK0PEJX45O8SBZ5AX4EE
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/C0/MJ2XIBUQ8BOMJUP3F3GEOT
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/LO/TOLNZ2DG39W4LKQDJ02IIF
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/RJ/8104TI1JX0X5F7XM6VT9SB
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/CX/DF0HZZIXKWFRIB5M0QBG6A
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/2A/L7DYQKGIURFEOZZLJQTMGA
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/X9/1TM91UWW19J3NDZSOKLI7M
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/2Z/AZE2H6PU896V7O26XDSNFB
+/Game/__ExternalActors__/GameLevels/StartingLevel/9/39/1BZGGQ8CKJWKY8OVKS4QZS
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/DZ/RUQODV49QXLDZN3WA9Y8N2
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/3X/82TS2MUSJVQ2Y0JIICCSOT
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/IB/2NXHG683F2CXN8TNUD4O3X
+/Game/__ExternalActors__/GameLevels/StartingLevel/E/WR/31ZGUYUUVI06UPZ2CJ7ORP
+/Game/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY
+/Game/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85
+/Game/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW
+/Game/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29
+/Game/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D
+[2025.05.13-20.59.52:858][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.59.52:860][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/9/AQ/0OWF1VXC1V1UA5NL7YAGK4
+[2025.05.13-20.59.52:860][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/0OWF1VXC1V1UA5NL7YAGK41A41F6F54F9DC41BF06891BC29AF3314.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/9/AQ/0OWF1VXC1V1UA5NL7YAGK4.uasset'
+[2025.05.13-20.59.52:863][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/8/ED/W5370OEMIQXTYEKLB7KCUQ
+[2025.05.13-20.59.52:863][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/W5370OEMIQXTYEKLB7KCUQ9E5CE90D43BE0F2D33F694BA13239A45.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/8/ED/W5370OEMIQXTYEKLB7KCUQ.uasset'
+[2025.05.13-20.59.52:866][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/7/ZR/CT5OTKJEKIPL1AVRLOPZNV
+[2025.05.13-20.59.52:866][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/CT5OTKJEKIPL1AVRLOPZNVAB6F4EDF41AD350733865FA7D7CD698C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/7/ZR/CT5OTKJEKIPL1AVRLOPZNV.uasset'
+[2025.05.13-20.59.52:867][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/7/G6/KT98P26WA2E0JQS0TNFI1C
+[2025.05.13-20.59.52:867][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/KT98P26WA2E0JQS0TNFI1C698822CC4E3EDDB9771F0E9D680DF05C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/7/G6/KT98P26WA2E0JQS0TNFI1C.uasset'
+[2025.05.13-20.59.52:872][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/8/F7/MTGDB9BBTQ4703OZUH9TUA
+[2025.05.13-20.59.52:872][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MTGDB9BBTQ4703OZUH9TUAD3B023E1447E0FEF98AFDFBE1647E541.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/8/F7/MTGDB9BBTQ4703OZUH9TUA.uasset'
+[2025.05.13-20.59.52:874][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/6/6P/M3KSR0X5XEVYRB18FKX5CZ
+[2025.05.13-20.59.52:874][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/M3KSR0X5XEVYRB18FKX5CZ0FF94C0B48CBE870994D8699DCAD98BE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/6/6P/M3KSR0X5XEVYRB18FKX5CZ.uasset'
+[2025.05.13-20.59.52:876][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/C/UM/G0J4VCPQ2GJ2DMZPI2IZKG
+[2025.05.13-20.59.52:876][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/G0J4VCPQ2GJ2DMZPI2IZKG2937F6164307B512EA9EBD9B14E698DA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/C/UM/G0J4VCPQ2GJ2DMZPI2IZKG.uasset'
+[2025.05.13-20.59.52:879][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/0/BL/JCN8N9BNDHZPG3QOT9SZSF
+[2025.05.13-20.59.52:879][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/JCN8N9BNDHZPG3QOT9SZSF3B718BFA4581564BE15670802E0C91CC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/0/BL/JCN8N9BNDHZPG3QOT9SZSF.uasset'
+[2025.05.13-20.59.52:881][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/6/02/R0PG0DB73F9XLVT9NG3E3C
+[2025.05.13-20.59.52:881][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/R0PG0DB73F9XLVT9NG3E3CD0A349CD42FF2F2C467521ACD20C60CC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/6/02/R0PG0DB73F9XLVT9NG3E3C.uasset'
+[2025.05.13-20.59.52:883][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/C/M7/E91WJR7JCEE22Z7CL1EGVH
+[2025.05.13-20.59.52:883][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/E91WJR7JCEE22Z7CL1EGVH7B4505D240E094EE63DF7D8957238B7A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/C/M7/E91WJR7JCEE22Z7CL1EGVH.uasset'
+[2025.05.13-20.59.52:885][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/F/1R/N7L73NUVMBJUP3M4XLE7M4
+[2025.05.13-20.59.52:885][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/N7L73NUVMBJUP3M4XLE7M4A240BAA84A25D48E5DC55CB6B7CD3FA7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/F/1R/N7L73NUVMBJUP3M4XLE7M4.uasset'
+[2025.05.13-20.59.52:888][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/A/W3/0I1PVQ5DI4DFGAMFMWLXQH
+[2025.05.13-20.59.52:888][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/0I1PVQ5DI4DFGAMFMWLXQHEC3F2B964AC85A1153A82E90F19F945C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/A/W3/0I1PVQ5DI4DFGAMFMWLXQH.uasset'
+[2025.05.13-20.59.52:890][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/4/H4/A3MX9D3L5GLOHECG3LMEBW
+[2025.05.13-20.59.52:890][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/A3MX9D3L5GLOHECG3LMEBWFB2147B9473E1D4977EE9B9D466EB62F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/4/H4/A3MX9D3L5GLOHECG3LMEBW.uasset'
+[2025.05.13-20.59.52:894][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/A/MH/NEQJXGCFX90NTVFBQM3OBE
+[2025.05.13-20.59.52:894][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/NEQJXGCFX90NTVFBQM3OBEF6CF7CD84A645DB75954AF97AE8DB9AF.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/A/MH/NEQJXGCFX90NTVFBQM3OBE.uasset'
+[2025.05.13-20.59.52:896][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/B/72/LIRQVFOGY7JG5FTGO3FMSK
+[2025.05.13-20.59.52:896][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/LIRQVFOGY7JG5FTGO3FMSK5D1A3C97406CB1BC92051D9C3AC4AFF7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/B/72/LIRQVFOGY7JG5FTGO3FMSK.uasset'
+[2025.05.13-20.59.52:898][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/A/0O/GQ18KGWKCYL1JYLJKGNHF8
+[2025.05.13-20.59.52:898][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/GQ18KGWKCYL1JYLJKGNHF8946CC0A84A8D23C1D6BE43A18EA470BC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/A/0O/GQ18KGWKCYL1JYLJKGNHF8.uasset'
+[2025.05.13-20.59.52:900][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/B/HK/E6U51X2Y6A8KY73FAH0V4G
+[2025.05.13-20.59.52:900][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/E6U51X2Y6A8KY73FAH0V4GE21B11924DE2DCFA3604358F92E496E5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/B/HK/E6U51X2Y6A8KY73FAH0V4G.uasset'
+[2025.05.13-20.59.52:902][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/4/93/IYXSRG49RP2613XNUQEHCE
+[2025.05.13-20.59.52:902][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/IYXSRG49RP2613XNUQEHCE6FDD962A49DED68512A2FA96337C32FF.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/4/93/IYXSRG49RP2613XNUQEHCE.uasset'
+[2025.05.13-20.59.52:904][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/2/3U/XSI8HP6KX0AGB1U9VHGPP9
+[2025.05.13-20.59.52:904][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/XSI8HP6KX0AGB1U9VHGPP9F4C753C3463481376AC708A6AD387C0F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/2/3U/XSI8HP6KX0AGB1U9VHGPP9.uasset'
+[2025.05.13-20.59.52:906][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/3/8C/9VLEG5MTZFQDAVJ8CK3ZK0
+[2025.05.13-20.59.52:906][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/9VLEG5MTZFQDAVJ8CK3ZK07E69A56C4AF8B3D8F102B0B30E083E24.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/3/8C/9VLEG5MTZFQDAVJ8CK3ZK0.uasset'
+[2025.05.13-20.59.52:910][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/2/96/MQW62YOIQBQR1H2BNLOVZ6
+[2025.05.13-20.59.52:910][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MQW62YOIQBQR1H2BNLOVZ6C755A690456AAAE50294D4BCBBDB7477.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/2/96/MQW62YOIQBQR1H2BNLOVZ6.uasset'
+[2025.05.13-20.59.52:914][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/3/LN/SP8UQKUAC8IHE76VR4XH7L
+[2025.05.13-20.59.52:914][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/SP8UQKUAC8IHE76VR4XH7L242DD31B424FFDE3D97F54891FBC31B2.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/3/LN/SP8UQKUAC8IHE76VR4XH7L.uasset'
+[2025.05.13-20.59.52:918][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/F/4W/Y6MW60U0FOJJGWL6H71KNW
+[2025.05.13-20.59.52:918][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Y6MW60U0FOJJGWL6H71KNW732FA0B04A22D0378DB2879E31AE3D5C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/F/4W/Y6MW60U0FOJJGWL6H71KNW.uasset'
+[2025.05.13-20.59.52:920][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/3/NA/RLUEVELJAQI6K0GPE7M5OJ
+[2025.05.13-20.59.52:920][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/RLUEVELJAQI6K0GPE7M5OJ906976784A2B0AA7756E85A16AC652C8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/3/NA/RLUEVELJAQI6K0GPE7M5OJ.uasset'
+[2025.05.13-20.59.52:922][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/5/7Z/MFI9I0M2Y3EH0FBXCEI8EY
+[2025.05.13-20.59.52:922][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MFI9I0M2Y3EH0FBXCEI8EYD1C34F364AFA4DE59C93A8A79460A176.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/5/7Z/MFI9I0M2Y3EH0FBXCEI8EY.uasset'
+[2025.05.13-20.59.52:925][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/D/8E/H2R1C4R9H9V9VRIZAXFAGT
+[2025.05.13-20.59.52:925][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/H2R1C4R9H9V9VRIZAXFAGT6DD27EC34D2BEE0BF0A991B65F60CB47.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/D/8E/H2R1C4R9H9V9VRIZAXFAGT.uasset'
+[2025.05.13-20.59.52:927][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/C/M0/VOGZ8ES3JBY4MOCE8GL4NM
+[2025.05.13-20.59.52:927][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/VOGZ8ES3JBY4MOCE8GL4NMCF533E07481F5446EF0031823AE7A128.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/C/M0/VOGZ8ES3JBY4MOCE8GL4NM.uasset'
+[2025.05.13-20.59.52:929][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/3/45/9F868TLD9R13RP4KF7STWB
+[2025.05.13-20.59.52:929][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/9F868TLD9R13RP4KF7STWBF2F6B53C4E20917688157CA3684886B3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/3/45/9F868TLD9R13RP4KF7STWB.uasset'
+[2025.05.13-20.59.52:930][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/1/VJ/MXYK0PEJX45O8SBZ5AX4EE
+[2025.05.13-20.59.52:930][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MXYK0PEJX45O8SBZ5AX4EE60A7D90B47A517C5FA8672A4567C618C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/1/VJ/MXYK0PEJX45O8SBZ5AX4EE.uasset'
+[2025.05.13-20.59.52:933][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/6/C0/MJ2XIBUQ8BOMJUP3F3GEOT
+[2025.05.13-20.59.52:933][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MJ2XIBUQ8BOMJUP3F3GEOT8DBF987E4A4C0326D9A612AB2D94CA70.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/6/C0/MJ2XIBUQ8BOMJUP3F3GEOT.uasset'
+[2025.05.13-20.59.52:935][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/4/LO/TOLNZ2DG39W4LKQDJ02IIF
+[2025.05.13-20.59.52:935][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/TOLNZ2DG39W4LKQDJ02IIF7304F19B46171416540239AE7089EB48.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/4/LO/TOLNZ2DG39W4LKQDJ02IIF.uasset'
+[2025.05.13-20.59.52:938][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/D/RJ/8104TI1JX0X5F7XM6VT9SB
+[2025.05.13-20.59.52:938][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/8104TI1JX0X5F7XM6VT9SBC2035B48498E9203A42A8A9366249981.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/D/RJ/8104TI1JX0X5F7XM6VT9SB.uasset'
+[2025.05.13-20.59.52:941][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/5/CX/DF0HZZIXKWFRIB5M0QBG6A
+[2025.05.13-20.59.52:941][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/DF0HZZIXKWFRIB5M0QBG6AD26DA126442045BD5F0E189706499C44.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/5/CX/DF0HZZIXKWFRIB5M0QBG6A.uasset'
+[2025.05.13-20.59.52:944][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/D/2A/L7DYQKGIURFEOZZLJQTMGA
+[2025.05.13-20.59.52:944][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/L7DYQKGIURFEOZZLJQTMGAF63403EE4E68EE3CB8341486E0A473CE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/D/2A/L7DYQKGIURFEOZZLJQTMGA.uasset'
+[2025.05.13-20.59.52:946][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/B/X9/1TM91UWW19J3NDZSOKLI7M
+[2025.05.13-20.59.52:946][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/1TM91UWW19J3NDZSOKLI7MD57EBD07485C8E2DFEC9049CF4729D70.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/B/X9/1TM91UWW19J3NDZSOKLI7M.uasset'
+[2025.05.13-20.59.52:948][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/D/2Z/AZE2H6PU896V7O26XDSNFB
+[2025.05.13-20.59.52:948][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/AZE2H6PU896V7O26XDSNFBBC8059E14E3936B91CAA5D90B75125ED.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/D/2Z/AZE2H6PU896V7O26XDSNFB.uasset'
+[2025.05.13-20.59.52:951][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/9/39/1BZGGQ8CKJWKY8OVKS4QZS
+[2025.05.13-20.59.52:951][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/1BZGGQ8CKJWKY8OVKS4QZSC2813022470703B0774E168CF143AA63.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/9/39/1BZGGQ8CKJWKY8OVKS4QZS.uasset'
+[2025.05.13-20.59.52:954][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/5/DZ/RUQODV49QXLDZN3WA9Y8N2
+[2025.05.13-20.59.52:954][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/RUQODV49QXLDZN3WA9Y8N2D6E4881145EE33866D21FEA4271835A8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/5/DZ/RUQODV49QXLDZN3WA9Y8N2.uasset'
+[2025.05.13-20.59.52:956][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/A/3X/82TS2MUSJVQ2Y0JIICCSOT
+[2025.05.13-20.59.52:956][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/82TS2MUSJVQ2Y0JIICCSOTDF88F3E24B1E29147D4812A342F7FE38.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/A/3X/82TS2MUSJVQ2Y0JIICCSOT.uasset'
+[2025.05.13-20.59.52:959][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/4/IB/2NXHG683F2CXN8TNUD4O3X
+[2025.05.13-20.59.52:959][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/2NXHG683F2CXN8TNUD4O3X8808F0564C4B9A44C0BBDD8412E16BCB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/4/IB/2NXHG683F2CXN8TNUD4O3X.uasset'
+[2025.05.13-20.59.52:961][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GameLevels/StartingLevel/E/WR/31ZGUYUUVI06UPZ2CJ7ORP
+[2025.05.13-20.59.52:961][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/31ZGUYUUVI06UPZ2CJ7ORPFAE20393440A57D94A729998F624FEF5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalActors__/GameLevels/StartingLevel/E/WR/31ZGUYUUVI06UPZ2CJ7ORP.uasset'
+[2025.05.13-20.59.52:963][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY] ([1] browsable assets)...
+[2025.05.13-20.59.52:963][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY]
+[2025.05.13-20.59.52:964][216]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY
+[2025.05.13-20.59.52:964][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Q4ATT11DKL4V1TJTCJS5ZY5B77FB7B460E65782DBB3BA18CBA125E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY.uasset'
+[2025.05.13-20.59.52:966][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85] ([1] browsable assets)...
+[2025.05.13-20.59.52:966][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85]
+[2025.05.13-20.59.52:966][216]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85
+[2025.05.13-20.59.52:966][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/IWT47MLF2CBKTTKSBAXQ85AB1DD43D499C3D22F3649E9CD0844608.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85.uasset'
+[2025.05.13-20.59.52:968][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW] ([1] browsable assets)...
+[2025.05.13-20.59.52:968][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW]
+[2025.05.13-20.59.52:969][216]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW
+[2025.05.13-20.59.52:969][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/ES87Q89H2D4UMSJN4N51SW7A8987F249412A3C33269B824639E6B4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW.uasset'
+[2025.05.13-20.59.52:974][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29] ([1] browsable assets)...
+[2025.05.13-20.59.52:974][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29]
+[2025.05.13-20.59.52:975][216]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29
+[2025.05.13-20.59.52:976][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/PMRPBTQ5XM0XAGX2BZ8G29153B705949B6235234F42F8A4795041D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29.uasset'
+[2025.05.13-20.59.52:978][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D] ([1] browsable assets)...
+[2025.05.13-20.59.52:978][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D]
+[2025.05.13-20.59.52:979][216]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D
+[2025.05.13-20.59.52:979][216]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/3120A35SPRFEU2IQETW93DC18644E8494DDC722A0BD8A72E0AC1C8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D.uasset'
+[2025.05.13-20.59.52:984][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.631 ms (total: 3.71 sec)
+[2025.05.13-20.59.52:988][216]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/GameLevels/StartingLevel/9/AQ/0OWF1VXC1V1UA5NL7YAGK4
+/Game/__ExternalActors__/GameLevels/StartingLevel/8/ED/W5370OEMIQXTYEKLB7KCUQ
+/Game/__ExternalActors__/GameLevels/StartingLevel/7/ZR/CT5OTKJEKIPL1AVRLOPZNV
+/Game/__ExternalActors__/GameLevels/StartingLevel/7/G6/KT98P26WA2E0JQS0TNFI1C
+/Game/__ExternalActors__/GameLevels/StartingLevel/8/F7/MTGDB9BBTQ4703OZUH9TUA
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/6P/M3KSR0X5XEVYRB18FKX5CZ
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/UM/G0J4VCPQ2GJ2DMZPI2IZKG
+/Game/__ExternalActors__/GameLevels/StartingLevel/0/BL/JCN8N9BNDHZPG3QOT9SZSF
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/02/R0PG0DB73F9XLVT9NG3E3C
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/M7/E91WJR7JCEE22Z7CL1EGVH
+/Game/__ExternalActors__/GameLevels/StartingLevel/F/1R/N7L73NUVMBJUP3M4XLE7M4
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/W3/0I1PVQ5DI4DFGAMFMWLXQH
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/H4/A3MX9D3L5GLOHECG3LMEBW
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/MH/NEQJXGCFX90NTVFBQM3OBE
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/72/LIRQVFOGY7JG5FTGO3FMSK
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/0O/GQ18KGWKCYL1JYLJKGNHF8
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/HK/E6U51X2Y6A8KY73FAH0V4G
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/93/IYXSRG49RP2613XNUQEHCE
+/Game/__ExternalActors__/GameLevels/StartingLevel/2/3U/XSI8HP6KX0AGB1U9VHGPP9
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/8C/9VLEG5MTZFQDAVJ8CK3ZK0
+/Game/__ExternalActors__/GameLevels/StartingLevel/2/96/MQW62YOIQBQR1H2BNLOVZ6
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/LN/SP8UQKUAC8IHE76VR4XH7L
+/Game/__ExternalActors__/GameLevels/StartingLevel/F/4W/Y6MW60U0FOJJGWL6H71KNW
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/NA/RLUEVELJAQI6K0GPE7M5OJ
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/7Z/MFI9I0M2Y3EH0FBXCEI8EY
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/8E/H2R1C4R9H9V9VRIZAXFAGT
+/Game/__ExternalActors__/GameLevels/StartingLevel/C/M0/VOGZ8ES3JBY4MOCE8GL4NM
+/Game/__ExternalActors__/GameLevels/StartingLevel/3/45/9F868TLD9R13RP4KF7STWB
+/Game/__ExternalActors__/GameLevels/StartingLevel/1/VJ/MXYK0PEJX45O8SBZ5AX4EE
+/Game/__ExternalActors__/GameLevels/StartingLevel/6/C0/MJ2XIBUQ8BOMJUP3F3GEOT
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/LO/TOLNZ2DG39W4LKQDJ02IIF
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/RJ/8104TI1JX0X5F7XM6VT9SB
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/CX/DF0HZZIXKWFRIB5M0QBG6A
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/2A/L7DYQKGIURFEOZZLJQTMGA
+/Game/__ExternalActors__/GameLevels/StartingLevel/B/X9/1TM91UWW19J3NDZSOKLI7M
+/Game/__ExternalActors__/GameLevels/StartingLevel/D/2Z/AZE2H6PU896V7O26XDSNFB
+/Game/__ExternalActors__/GameLevels/StartingLevel/9/39/1BZGGQ8CKJWKY8OVKS4QZS
+/Game/__ExternalActors__/GameLevels/StartingLevel/5/DZ/RUQODV49QXLDZN3WA9Y8N2
+/Game/__ExternalActors__/GameLevels/StartingLevel/A/3X/82TS2MUSJVQ2Y0JIICCSOT
+/Game/__ExternalActors__/GameLevels/StartingLevel/4/IB/2NXHG683F2CXN8TNUD4O3X
+/Game/__ExternalActors__/GameLevels/StartingLevel/E/WR/31ZGUYUUVI06UPZ2CJ7ORP
+/Game/__ExternalObjects__/GameLevels/StartingLevel/2/B0/Q4ATT11DKL4V1TJTCJS5ZY
+/Game/__ExternalObjects__/GameLevels/StartingLevel/B/FG/IWT47MLF2CBKTTKSBAXQ85
+/Game/__ExternalObjects__/GameLevels/StartingLevel/5/IW/ES87Q89H2D4UMSJN4N51SW
+/Game/__ExternalObjects__/GameLevels/StartingLevel/7/55/PMRPBTQ5XM0XAGX2BZ8G29
+/Game/__ExternalObjects__/GameLevels/StartingLevel/A/24/3120A35SPRFEU2IQETW93D
+[2025.05.13-20.59.53:024][216]LogFileHelpers: Saving map 'StartingLevel' took 0.345
+[2025.05.13-20.59.53:024][216]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/GameLevels/StartingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.13-20.59.53:066][216]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-20.59.53:066][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-20.59.53:066][216]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2025.05.13-20.59.53:084][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.13-20.59.53:089][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.13-20.59.53:091][216]LogWorld: UWorld::CleanupWorld for StartingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.05.13-20.59.53:091][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.13-20.59.53:091][216]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/GameLevels/StartingLevel.StartingLevel
+[2025.05.13-20.59.53:106][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.13-20.59.53:120][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.13-20.59.53:121][216]LogStreaming: Display: FlushAsyncLoading(418): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.59.53:128][216]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartingLevel'.
+[2025.05.13-20.59.53:128][216]LogChaosDD: Creating Chaos Debug Draw Scene for world StartingLevel
+[2025.05.13-20.59.53:130][216]LogWorldPartition: ULevel::OnLevelLoaded(StartingLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.13-20.59.53:130][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.13-20.59.53:130][216]LogWorldPartition: UWorldPartition::Initialize : World = /Game/GameLevels/StartingLevel.StartingLevel, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.13-20.59.53:145][216]LogWorldPartition: Display: WorldPartition initialize took 15.880 ms (total: 61.504 ms)
+[2025.05.13-20.59.53:186][216]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.13-20.59.53:188][216]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2025.05.13-20.59.53:188][216]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2025.05.13-20.59.53:206][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.13-20.59.53:210][216]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.13-20.59.53:211][216]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.698ms to complete.
+[2025.05.13-20.59.53:302][216]LogContentValidation: Display: Starting to validate 47 assets
+[2025.05.13-20.59.53:302][216]LogContentValidation: Enabled validators:
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.59.53:303][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.59.53:304][216]AssetCheck: /Game/GameLevels/StartingLevel Validating asset
+[2025.05.13-20.59.53:380][217]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.19s
+[2025.05.13-20.59.54:968][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.13-20.59.54:973][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.59.55:085][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.13-20.59.55:088][295]LogSavePackage: Moving output files for package: /Game/GameLevels/MainMenuScreen
+[2025.05.13-20.59.55:088][295]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/MainMenuScreen25BFB57A48D57727A331ABA2F409FC7B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/GameLevels/MainMenuScreen.umap'
+[2025.05.13-20.59.55:098][295]LogFileHelpers: Saving map 'MainMenuScreen' took 0.025
+[2025.05.13-20.59.55:118][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.934 ms (total: 3.85 sec)
+[2025.05.13-20.59.55:206][295]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.59.55:206][295]LogContentValidation: Enabled validators:
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.59.55:206][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.59.55:206][295]AssetCheck: /Game/GameLevels/MainMenuScreen Validating asset
+[2025.05.13-20.59.56:650][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 670.730896
+[2025.05.13-20.59.56:784][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.13-20.59.56:784][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 670.847412, Update Interval: 317.483459
+[2025.05.13-21.00.42:955][ 90]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/WBP_MainMenu.WBP_MainMenu
+[2025.05.13-21.00.42:955][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.13-21.00.42:966][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.13-21.00.42:972][ 90]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.05.13-21.00.43:146][ 90]LogStreaming: Display: FlushAsyncLoading(464): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-21.00.44:535][ 90]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.05.13-21.00.44:536][ 90]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.05.13-21.00.44:820][ 90]LogSlate: Took 0.006582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.13-21.00.44:825][ 90]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.05.13-21.00.44:831][ 90]LogSlate: Took 0.005971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.13-21.00.46:978][160]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: ================================================
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Total job queries 1,327, among them cache hits 209 (15.75%), DDC hits 1,105 (83.27%), Duplicates 6 (0.45%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Tracking 1,112 distinct input hashes that result in 873 distinct outputs (78.51%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: RAM used: 565.08 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Average time worker was idle: 585.80 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 1.48 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 1.58
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Shader code size: average 6.421 KiB, min 4.027 KiB, max 11.07 KiB
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.81 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Average processing rate: 2.49 jobs/sec
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Total thread time: 2.926 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Total thread preprocess time: 25.264 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Percentage time preprocessing: 863.47%
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Effective parallelization: 1.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.22% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.10% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.28% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.20% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.86% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: === Material stats ===
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Materials Translated:    136
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.13-21.00.54:670][572]LogShaderCompilers: Display: ================================================
+[2025.05.13-21.01.21:468][968]LogSlate: Took 0.009244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.05.13-21.04.17:127][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.13-21.05.20:953][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.033569
+[2025.05.13-21.05.21:954][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.13-21.05.21:954][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 995.699890, Update Interval: 332.811676
