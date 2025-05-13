@@ -1748,3 +1748,98 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.05.13-20.48.59:540][ 16]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.05.13-20.49.00:208][ 18]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-MlQ7oXhWGEaVy0FENFXrrQ-ZisiTJ18lUuZsU8L9_UXBw]
 [2025.05.13-20.50.39:399][316]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.13-20.51.51:706][562]LogPSOHitching: Encountered 200 PSO creation hitches so far (59 graphics, 141 compute). 0 of them were precached.
+[2025.05.13-20.51.52:473][566]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.13-20.52.01:266][966]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.52.01:274][966]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.52.01:283][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.52.06:834][280]LogContentBrowser: Attempting asset rename: NewFolder -> UserInterface
+[2025.05.13-20.52.06:835][280]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.52.12:741][443]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.13-20.52.19:872][605]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.05.13-20.52.19:891][605]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.13-20.52.19:899][605]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.13-20.52.19:926][607]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.13-20.52.26:922][ 19]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_MainMenu
+[2025.05.13-20.52.26:938][ 19]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.13-20.52.30:827][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.13-20.52.30:831][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.13-20.52.30:910][225]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UserInterface/WBP_MainMenu] ([2] browsable assets)...
+[2025.05.13-20.52.30:925][225]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UserInterface/WBP_MainMenu.WBP_MainMenu]
+[2025.05.13-20.52.30:925][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_MainMenu]
+[2025.05.13-20.52.30:925][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/WBP_MainMenu" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_MainMenu.uasset" SILENT=true
+[2025.05.13-20.52.30:928][225]LogSavePackage: Moving output files for package: /Game/UserInterface/WBP_MainMenu
+[2025.05.13-20.52.30:928][225]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WBP_MainMenuFA39A10C405F4DCAED202B874FD63D39.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_MainMenu.uasset'
+[2025.05.13-20.52.30:956][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.818 ms (total: 639.773 ms)
+[2025.05.13-20.52.31:024][225]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.13-20.52.31:024][225]LogContentValidation: Enabled validators:
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.13-20.52.31:024][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.13-20.52.31:025][225]AssetCheck: /Game/UserInterface/WBP_MainMenu Validating asset
+[2025.05.13-20.52.45:398][871]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.52.45:404][871]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.52.45:413][872]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.52.46:766][953]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2025.05.13-20.52.46:766][953]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.53.02:010][170]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.02:050][170]LogInterchangeEngine: [Pending] Importing
+[2025.05.13-20.53.02:050][170]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/buttonUIimg.png]
+[2025.05.13-20.53.02:705][172]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.02:707][173]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.05.13-20.53.03:363][174]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/buttonUIimg.png]
+[2025.05.13-20.53.03:368][174]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.13-20.53.03:368][174]LogInterchangeEngine: [Success] Import Done
+[2025.05.13-20.53.05:260][190]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.05:334][190]LogInterchangeEngine: [Pending] Importing
+[2025.05.13-20.53.05:334][190]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/TFTbannerIMG.png]
+[2025.05.13-20.53.05:970][192]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.06:613][194]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/TFTbannerIMG.png]
+[2025.05.13-20.53.06:618][194]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.13-20.53.06:618][194]LogInterchangeEngine: [Success] Import Done
+[2025.05.13-20.53.16:310][245]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.16:350][245]LogInterchangeEngine: [Pending] Importing
+[2025.05.13-20.53.16:350][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/TFTprofileImage.png]
+[2025.05.13-20.53.16:350][245]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.13-20.53.16:350][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/El Camino Olvidado.png]
+[2025.05.13-20.53.16:351][245]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.13-20.53.16:351][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/PGSprofileImage.png]
+[2025.05.13-20.53.16:352][245]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.13-20.53.16:352][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/Regal Lion with Electric Blue Mane.png]
+[2025.05.13-20.53.16:352][245]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.13-20.53.16:352][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/Serene Portrait with Golden Details.png]
+[2025.05.13-20.53.16:353][245]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.13-20.53.16:353][245]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/TFT Social Image.png]
+[2025.05.13-20.53.17:007][247]LogStreaming: Display: FlushAsyncLoading(410): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.17:669][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/TFTprofileImage.png]
+[2025.05.13-20.53.17:669][249]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/El Camino Olvidado.png]
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/Serene Portrait with Golden Details.png]
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/PGSprofileImage.png]
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/TFT Social Image.png]
+[2025.05.13-20.53.17:670][249]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.13-20.53.17:671][249]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/Regal Lion with Electric Blue Mane.png]
+[2025.05.13-20.53.17:687][249]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.13-20.53.17:688][249]LogInterchangeEngine: [Success] Import Done
+[2025.05.13-20.53.22:660][284]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.22:700][284]LogInterchangeEngine: [Pending] Importing
+[2025.05.13-20.53.22:700][284]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/192x192.png]
+[2025.05.13-20.53.23:372][286]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.13-20.53.24:014][288]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/192x192.png]
+[2025.05.13-20.53.24:019][288]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.13-20.53.24:019][288]LogInterchangeEngine: [Success] Import Done
+[2025.05.13-20.53.40:600][406]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.13-20.53.40:606][406]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.13-20.53.40:614][407]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.13-20.53.43:685][591]LogContentBrowser: Attempting asset rename: NewFolder -> Movies
+[2025.05.13-20.53.43:685][591]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.13-20.53.54:592][754]LogAssetTools: Warning: Failed to import 'C:\Users\Trevor Hicks\Downloads\The-Forgotten-Trial-main\The-Forgotten-Trial-main\Content\Movies\SplashVideo.uasset'. Unknown extension 'uasset'.
+[2025.05.13-20.54.28:319][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.400818
+[2025.05.13-20.54.29:321][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.13-20.54.29:321][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.067413, Update Interval: 317.476135
