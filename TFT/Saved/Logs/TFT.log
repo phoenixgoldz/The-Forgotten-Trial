@@ -2028,3 +2028,159 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.14-20.12.10:148][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.14-20.12.10:149][ 17]AssetCheck: /Game/UserInterface/WBP_MainMenu Validating asset
 [2025.05.14-20.12.34:011][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.14-20.14.58:012][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.007080
+[2025.05.14-20.14.59:012][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.14-20.14.59:012][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.673584, Update Interval: 349.082916
+[2025.05.14-20.16.35:131][256]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.14-20.18.49:155][888]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.18.49:195][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2025.05.14-20.18.50:145][888]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-20.18.50:196][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.14-20.18.50:225][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.05.14-20.18.50:253][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.14-20.18.53:962][ 90]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.18.53:989][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.14-20.18.54:925][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-20.18.54:972][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.14-20.18.55:000][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.14-20.18.55:027][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.14-20.20.48:317][724]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.20.48:368][724]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.20.48:368][724]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.20.51:643][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.14-20.20.51:653][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-20.20.51:916][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/TFT_AlbumArt] ([1] browsable assets)...
+[2025.05.14-20.20.51:973][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/TFT_AlbumArt.TFT_AlbumArt]
+[2025.05.14-20.20.51:973][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/TFT_AlbumArt]
+[2025.05.14-20.20.51:975][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/TFT_AlbumArt" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFT_AlbumArt.uasset" SILENT=true
+[2025.05.14-20.20.52:007][779]LogSavePackage: Moving output files for package: /Game/Art/TFT_AlbumArt
+[2025.05.14-20.20.52:007][779]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/TFT_AlbumArtDF5C7BC040386B3FEC447EA7CEB9D836.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFT_AlbumArt.uasset'
+[2025.05.14-20.20.52:122][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 469.491 ms (total: 3.19 sec)
+[2025.05.14-20.20.52:343][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.14-20.20.52:343][779]LogContentValidation: Enabled validators:
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-20.20.52:343][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-20.20.52:343][779]AssetCheck: /Game/Art/TFT_AlbumArt Validating asset
+[2025.05.14-20.21.39:022][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4007.015869
+[2025.05.14-20.21.40:022][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.14-20.21.40:022][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4007.683105, Update Interval: 319.499512
+[2025.05.14-20.22.58:215][791]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.23.14:958][300]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.14-20.23.18:246][432]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.23.18:254][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Kael/Kael.Kael
+[2025.05.14-20.23.18:286][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.14-20.23.20:220][432]LogPSOHitching: Encountered 250 PSO creation hitches so far (112 graphics, 138 compute). 0 of them were precached.
+[2025.05.14-20.23.20:329][432]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.14-20.23.22:458][485]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.22:458][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.22:629][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.14-20.23.23:942][530]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.23:943][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.23:954][530]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.23:954][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.24:032][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.14-20.23.38:991][823]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.38:991][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.39:038][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.14-20.23.40:954][895]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.40:954][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.40:966][895]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.23.40:966][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.23.41:076][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.14-20.23.45:783][985]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.23.45:790][985]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Wisp/Wisp.Wisp
+[2025.05.14-20.23.45:807][985]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Wisp/Wisp) ...
+[2025.05.14-20.23.45:932][985]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.05.14-20.23.49:656][ 11]LogPSOHitching: Encountered 300 PSO creation hitches so far (130 graphics, 170 compute). 0 of them were precached.
+[2025.05.14-20.23.49:997][ 21]LogSlate: Window 'Wisp' being destroyed
+[2025.05.14-20.27.34:296][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4362.292480
+[2025.05.14-20.27.35:297][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.14-20.27.35:297][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4362.960449, Update Interval: 309.007233
+[2025.05.14-20.30.15:361][929]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.30.15:370][929]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.30.15:370][929]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.30.23:874][181]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Art/Portraits/WispPortrait.WispPortrait
+[2025.05.14-20.30.29:305][368]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-20.30.29:305][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-20.30.29:495][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.05.14-20.30.38:922][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.14-20.30.40:842][541]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.14-20.30.40:932][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.14-20.30.40:972][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.14-20.30.41:011][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.14-20.30.41:027][541]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.14-20.30.44:037][647]AssetReimport: Attempting to delete WispPortrait (its source file has been removed).
+[2025.05.14-20.31.48:023][961]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.31.48:028][961]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.31.48:028][961]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.31.52:858][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.14-20.31.52:866][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-20.31.53:027][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Portraits/WispPortrait] ([1] browsable assets)...
+[2025.05.14-20.31.53:056][ 77]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Portraits/WispPortrait.WispPortrait]
+[2025.05.14-20.31.53:056][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Portraits/WispPortrait]
+[2025.05.14-20.31.53:056][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Portraits/WispPortrait" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/WispPortrait.uasset" SILENT=true
+[2025.05.14-20.31.53:059][ 77]LogSavePackage: Moving output files for package: /Game/Art/Portraits/WispPortrait
+[2025.05.14-20.31.53:059][ 77]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WispPortrait62BA1B20415CB8BF6903BBAEBFC1F688.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/WispPortrait.uasset'
+[2025.05.14-20.31.53:117][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.426 ms (total: 3.44 sec)
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: Enabled validators:
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-20.31.53:273][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-20.31.53:273][ 77]AssetCheck: /Game/Art/Portraits/WispPortrait Validating asset
+[2025.05.14-20.32.39:564][575]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.32.39:592][575]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.32.39:592][575]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/KaelPortrait.png]
+[2025.05.14-20.32.40:262][577]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.32.40:572][579]LogTexture: Display: Building textures: /Game/Art/Portraits/KaelPortrait.KaelPortrait (TFO_AutoDXT, 1024x1536 x1x1x1) (Required Memory Estimate: 165.750 MB), EncodeSpeed: Fast
+[2025.05.14-20.32.40:919][579]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/KaelPortrait.png]
+[2025.05.14-20.32.40:926][579]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.32.40:926][579]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.32.50:827][600]LogSlate: Window 'Message' being destroyed
+[2025.05.14-20.32.50:897][600]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.32.50:926][600]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.32.50:926][600]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.32.50:953][600]LogAutomationController: Ignoring very large delta of 3.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.14-20.32.57:135][795]LogInterchangeEngine: [Pending] Importing
+[2025.05.14-20.32.57:135][795]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/WispPortrait.png]
+[2025.05.14-20.32.57:167][795]LogTexture: Display: Building textures: /Game/Art/Portraits/WispPortrait.WispPortrait (BGRA8, 1024x1536 x1x1x1) (Required Memory Estimate: 55.000 MB), EncodeSpeed: Fast
+[2025.05.14-20.32.57:178][795]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hick...ontent/Art/Portraits/WispPortrait.png]
+[2025.05.14-20.32.57:178][795]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.14-20.32.57:178][795]LogInterchangeEngine: [Success] Import Done
+[2025.05.14-20.33.00:621][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.05.14-20.33.00:629][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-20.33.00:769][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Portraits/WispPortrait] ([1] browsable assets)...
+[2025.05.14-20.33.00:798][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Portraits/WispPortrait.WispPortrait]
+[2025.05.14-20.33.00:798][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Portraits/WispPortrait]
+[2025.05.14-20.33.00:798][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Portraits/WispPortrait" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/WispPortrait.uasset" SILENT=true
+[2025.05.14-20.33.00:829][900]LogSavePackage: Moving output files for package: /Game/Art/Portraits/WispPortrait
+[2025.05.14-20.33.00:829][900]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WispPortraitE0AE2A0C4EF934D712C6D5A52E9DD202.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/WispPortrait.uasset'
+[2025.05.14-20.33.00:831][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Portraits/KaelPortrait] ([1] browsable assets)...
+[2025.05.14-20.33.00:834][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Portraits/KaelPortrait.KaelPortrait]
+[2025.05.14-20.33.00:834][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Portraits/KaelPortrait]
+[2025.05.14-20.33.00:834][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Portraits/KaelPortrait" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/KaelPortrait.uasset" SILENT=true
+[2025.05.14-20.33.00:866][900]LogSavePackage: Moving output files for package: /Game/Art/Portraits/KaelPortrait
+[2025.05.14-20.33.00:866][900]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/KaelPortrait2AC821E54C89FB080E32458A75B94A96.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Portraits/KaelPortrait.uasset'
+[2025.05.14-20.33.00:921][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.016 ms (total: 3.74 sec)
+[2025.05.14-20.33.01:048][900]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.14-20.33.01:048][900]LogContentValidation: Enabled validators:
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-20.33.01:048][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-20.33.01:048][900]AssetCheck: /Game/Art/Portraits/WispPortrait Validating asset
+[2025.05.14-20.33.01:048][900]AssetCheck: /Game/Art/Portraits/KaelPortrait Validating asset
+[2025.05.14-20.33.16:585][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4704.588379
+[2025.05.14-20.33.17:585][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.14-20.33.17:585][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4705.257324, Update Interval: 302.215637
+[2025.05.14-20.33.46:022][644]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-20.34.34:224][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
