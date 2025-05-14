@@ -11,12 +11,8 @@
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/SFX/sword-schwing.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/buttonUIimg.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTbannerIMG.uasset",
-				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/El_Camino_Olvidado.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/PGSprofileImage.uasset",
-				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTprofileImage.uasset",
-				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Serene_Portrait_with_Golden_Details.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFT_Social_Image.uasset",
-				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Regal_Lion_with_Electric_Blue_Mane.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/192x192.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/Beautiful_Village.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/Music/mysterious-ambient-atmosphere.uasset",
@@ -114,7 +110,12 @@
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Image_0_001.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Material_0_001.uasset",
 				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Wisp.uasset",
-				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/SKM_Wisp.uasset"
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/SKM_Wisp.uasset",
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Audio/BP_AudioManager.uasset",
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/El_Camino_Olvidado.uasset",
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/TFTprofileImage.uasset",
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Serene_Portrait_with_Golden_Details.uasset",
+				"C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/Art/Regal_Lion_with_Electric_Blue_Mane.uasset"
 			]
 		}
 	]
