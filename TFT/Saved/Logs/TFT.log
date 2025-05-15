@@ -5552,3 +5552,999 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.15-21.12.11:578][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7313.033691
 [2025.05.15-21.12.12:577][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.15-21.12.12:577][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7313.700684, Update Interval: 331.994995
+[2025.05.15-21.12.59:402][685]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.12.59:407][685]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.05.15-21.12.59:418][685]LogObjectTools: Deleting 1 worlds: /Game/NewMap.NewMap
+[2025.05.15-21.12.59:418][685]LogObjectTools: Currently 49 active worlds: /Game/GameLevels/StartingLevel.StartingLevel, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_11, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_33, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38, /Engine/Transient.World_39, /Engine/Transient.World_42, /Engine/Transient.World_43, /Engine/Transient.World_48, /Engine/Transient.World_52, /Engine/Transient.World_54, /Engine/Transient.World_56, /Engine/Transient.World_68, /Engine/Transient.World_69, /Engine/Transient.World_70, /Engine/Transient.World_71, /Engine/Transient.World_72, /Engine/Transient.World_73, /Engine/Transient.World_75, /Engine/Transient.World_76, /Engine/Transient.World_78, /Engine/Transient.World_79, /Engine/Transient.World_80, /Engine/Transient.World_82, /Engine/Transient.World_83, /Engine/Transient.World_84, /Engine/Transient.World_85, /Engine/Transient.World_87, /Engine/Transient.World_88
+[2025.05.15-21.12.59:461][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-21.13.01:100][685]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.15-21.13.01:134][685]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.13.01:134][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.13.01:171][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.15-21.13.01:203][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.15-21.13.01:231][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.15-21.13.03:743][761]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.15-21.13.03:753][761]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.15-21.13.03:767][762]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.15-21.13.07:107][906]LogContentBrowser: Attempting asset rename: NewFolder -> Systems
+[2025.05.15-21.13.07:109][906]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.15-21.13.17:075][ 99]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.05.15-21.13.17:083][ 99]LogContentBrowser: Creating deferred item: NewInterface
+[2025.05.15-21.13.17:139][101]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.05.15-21.13.29:349][629]LogContentBrowser: Attempting asset rename: NewInterface -> InteractionInterface
+[2025.05.15-21.13.29:378][629]LogContentBrowser: End creating deferred item NewInterface
+[2025.05.15-21.13.31:535][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/InteractionInterface.InteractionInterface
+[2025.05.15-21.13.31:535][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_89
+[2025.05.15-21.13.34:616][776]LogSlate: Window 'InteractionInterface' being destroyed
+[2025.05.15-21.13.52:939][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.15-21.13.53:732][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.13.53:934][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.13.53:934][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.13.53:934][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.13.53:937][196]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.13.53:937][196]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterface085B1A504393B5DA12B25EB642A6E21F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.13.54:037][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 305.350 ms (total: 17.1 sec)
+[2025.05.15-21.13.54:181][196]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.13.54:181][196]LogContentValidation: Enabled validators:
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.13.54:181][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.13.54:181][196]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.14.06:517][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.15-21.14.07:381][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.14.07:597][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.14.07:597][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.14.07:597][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.14.07:599][523]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.14.07:601][523]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterfaceB2CA5CE84978E8930DC7579BD9F7AB59.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.14.07:702][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 321.471 ms (total: 17.4 sec)
+[2025.05.15-21.14.07:844][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.14.07:844][523]LogContentValidation: Enabled validators:
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.14.07:844][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.14.07:844][523]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.14.28:497][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.15-21.14.37:963][998]LogSlate: Took 0.011313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.15-21.14.43:154][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.15-21.14.43:912][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.14.44:136][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.14.44:136][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.14.44:136][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.14.44:139][ 96]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.14.44:141][ 96]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterfaceC69F2B5442E520D074EEC99A84C70199.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.14.44:241][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 328.613 ms (total: 17.7 sec)
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: Enabled validators:
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.14.44:385][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.14.44:385][ 96]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.14.47:430][150]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.14.47:430][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.14.47:509][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.05.15-21.15.12:806][288]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.15-21.15.13:109][288]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.15-21.15.13:109][288]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23384
+[2025.05.15-21.15.13:774][290]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.15-21.15.13:777][290]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{baf6b32b-c74a-42d7-8c47-c27bc3f35e95}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=660.86
+[2025.05.15-21.15.13:777][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.15-21.15.13:779][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.15-21.18.15:134][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7676.603516
+[2025.05.15-21.18.16:134][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.18.16:134][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7677.270508, Update Interval: 303.731812
+[2025.05.15-21.24.10:185][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8031.649902
+[2025.05.15-21.24.11:185][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.24.11:185][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8032.316406, Update Interval: 350.412292
+[2025.05.15-21.30.38:912][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8420.361328
+[2025.05.15-21.30.39:916][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.30.39:916][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8421.031250, Update Interval: 354.585419
+[2025.05.15-21.32.12:706][347]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (AIR 2), InstanceID=1
+[2025.05.15-21.32.12:925][347]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.15-21.32.12:926][347]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23384
+[2025.05.15-21.32.13:260][348]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.15-21.32.13:263][348]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{9ea11c24-da20-4bea-a15b-9b263cbc6daa}, Name=Headphones (AIR 2)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=112.57
+[2025.05.15-21.32.13:264][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.15-21.32.13:265][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.15-21.32.32:512][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.05.15-21.32.32:513][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_90
+[2025.05.15-21.32.35:103][672]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.15-21.32.35:147][674]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_91
+[2025.05.15-21.32.35:676][687]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2025.05.15-21.32.43:876][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.15-21.33.12:944][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.15-21.33.26:794][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.15-21.33.27:723][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.33.27:947][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.33.28:038][487]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.33.28:038][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.33.28:038][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.33.28:052][487]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.33.28:053][487]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter647BD8EF4B43AACC8401108C32AA3B2B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.33.28:097][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 373.810 ms (total: 18.1 sec)
+[2025.05.15-21.33.28:246][487]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.33.28:246][487]LogContentValidation: Enabled validators:
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.33.28:246][487]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.33.28:246][487]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.33.42:283][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.15-21.33.49:487][555]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/InteractionInterface.InteractionInterface
+[2025.05.15-21.33.49:487][555]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2025.05.15-21.34.12:834][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.15-21.34.13:951][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.34.14:179][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.34.14:179][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.34.14:179][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.34.14:183][978]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.34.14:184][978]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterface9F08D3114A271C72EC7DE38629E25A17.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.34.14:282][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 331.536 ms (total: 18.4 sec)
+[2025.05.15-21.34.14:426][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.34.14:426][978]LogContentValidation: Enabled validators:
+[2025.05.15-21.34.14:426][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.34.14:427][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.34.14:427][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.34.14:427][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.34.14:427][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.34.14:427][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.34.14:427][978]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.34.15:511][998]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.34.15:511][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.34.15:592][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.15-21.35.15:287][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.15-21.35.15:865][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.35.16:066][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.35.16:129][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.35.16:129][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.35.16:129][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.35.16:139][944]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.35.16:140][944]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter2EF812E54B408BCDEACA7BB201671597.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.35.16:182][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 315.572 ms (total: 18.7 sec)
+[2025.05.15-21.35.16:278][944]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.35.16:278][944]LogContentValidation: Enabled validators:
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.35.16:278][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.35.16:279][944]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.35.48:747][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.05.15-21.35.49:157][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.35.49:364][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.35.49:441][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.35.49:441][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.35.49:441][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.35.49:460][960]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.35.49:461][960]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter36AFF3D1423B27DB13C88F9E418A2921.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.35.49:506][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.296 ms (total: 19.1 sec)
+[2025.05.15-21.35.49:645][960]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.35.49:646][960]LogContentValidation: Enabled validators:
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.35.49:646][960]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.35.49:646][960]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.35.57:462][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/InteractionInterface.InteractionInterface
+[2025.05.15-21.35.57:463][284]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_94
+[2025.05.15-21.36.09:030][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.15-21.36.09:942][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.36.10:042][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.36.10:042][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.36.10:042][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.36.10:046][540]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.36.10:046][540]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterface189543AF4674162F455057A0A490AA15.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.36.10:089][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.451 ms (total: 19.2 sec)
+[2025.05.15-21.36.10:175][540]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.36.10:175][540]LogContentValidation: Enabled validators:
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.36.10:175][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.36.10:175][540]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.36.27:087][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.15-21.37.01:347][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.15-21.37.02:113][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.37.02:216][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/InteractionInterface] ([2] browsable assets)...
+[2025.05.15-21.37.02:216][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/InteractionInterface]
+[2025.05.15-21.37.02:216][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/InteractionInterface" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset" SILENT=true
+[2025.05.15-21.37.02:218][669]LogSavePackage: Moving output files for package: /Game/Systems/InteractionInterface
+[2025.05.15-21.37.02:219][669]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/InteractionInterface85EEB4524A11C5CF3EA610B5E94EAA94.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/InteractionInterface.uasset'
+[2025.05.15-21.37.02:261][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.825 ms (total: 19.4 sec)
+[2025.05.15-21.37.02:346][669]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.37.02:346][669]LogContentValidation: Enabled validators:
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.37.02:346][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.37.02:346][669]AssetCheck: /Game/Systems/InteractionInterface Validating asset
+[2025.05.15-21.37.04:031][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.37.04:131][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.37.04:206][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.37.04:206][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.37.04:206][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.37.04:217][744]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.37.04:217][744]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter23A851D94632FB819636A7B26D4DEC7B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.37.04:239][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.286 ms (total: 19.6 sec)
+[2025.05.15-21.37.04:329][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.37.04:329][744]LogContentValidation: Enabled validators:
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.37.04:329][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.37.04:329][744]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.37.14:854][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.15-21.37.15:444][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.37.15:675][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.37.15:747][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.37.15:747][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.37.15:747][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.37.15:764][ 85]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.37.15:765][ 85]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacterD52C390E46117AE76973208F6C33FDB5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.37.15:810][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 366.036 ms (total: 19.9 sec)
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: Enabled validators:
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.37.15:953][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.37.15:953][ 85]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.37.19:857][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8821.229492
+[2025.05.15-21.37.20:543][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.37.20:543][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8821.900391, Update Interval: 320.057983
+[2025.05.15-21.37.32:256][431]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.15-21.37.32:274][431]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.15-21.37.32:282][431]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.15-21.37.32:294][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.15-21.37.44:403][836]LogContentBrowser: Attempting asset rename: NewBlueprint -> Chest
+[2025.05.15-21.37.44:420][836]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.15-21.37.49:964][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/Chest.Chest
+[2025.05.15-21.37.49:964][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_95
+[2025.05.15-21.37.52:361][940]LogSlate: Window 'Chest' being destroyed
+[2025.05.15-21.38.45:097][627]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.38.45:097][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.38.45:232][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.15-21.38.54:988][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/Chest.Chest
+[2025.05.15-21.38.54:988][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2025.05.15-21.39.00:207][  1]LogSlate: Window 'Chest' being destroyed
+[2025.05.15-21.39.00:385][  1]LogSlate: Window 'Chest' being destroyed
+[2025.05.15-21.39.00:398][  1]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.39.00:399][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.39.00:521][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.15-21.39.07:403][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.15-21.39.07:411][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.39.07:533][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.39.07:533][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.39.07:533][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.39.07:545][188]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.39.07:545][188]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/ChestD9292A92432B372937ED96ADB423D937.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.39.07:580][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.224 ms (total: 20.1 sec)
+[2025.05.15-21.39.07:715][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.39.07:715][188]LogContentValidation: Enabled validators:
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.39.07:715][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.39.07:715][188]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.39.08:653][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/Chest.Chest
+[2025.05.15-21.39.08:653][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2025.05.15-21.39.13:829][287]LogSlate: Window 'Chest' being destroyed
+[2025.05.15-21.39.37:525][794]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.39.37:525][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.39.37:591][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Systems/Chest.Chest
+[2025.05.15-21.39.37:592][794]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_98
+[2025.05.15-21.39.37:961][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.15-21.39.55:607][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.15-21.39.56:277][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.39.56:482][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.39.56:483][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.39.56:483][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.39.56:486][248]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.39.56:487][248]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Chest0E2AE90040733DFB904E548DB4C507D0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.39.56:584][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 307.625 ms (total: 20.4 sec)
+[2025.05.15-21.39.56:676][248]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.39.56:677][248]LogContentValidation: Enabled validators:
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.39.56:677][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.39.56:677][248]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.40.17:115][953]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_99
+[2025.05.15-21.40.19:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.15-21.40.39:426][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-21.40.40:070][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.40.40:189][602]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.40.40:279][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Systems/Chest.Chest]
+[2025.05.15-21.40.40:279][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.40.40:279][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.40.40:285][602]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.40.40:285][602]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Chest69485AC34997A0777AEDAF906A3F0EC1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.40.40:308][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.688 ms (total: 20.7 sec)
+[2025.05.15-21.40.40:422][602]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.40.40:422][602]LogContentValidation: Enabled validators:
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.40.40:422][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.40.40:422][602]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.40.59:633][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2025.05.15-21.40.59:634][355]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_100
+[2025.05.15-21.41.39:277][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.15-21.41.47:283][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.41.47:388][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.41.47:476][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Systems/Chest.Chest]
+[2025.05.15-21.41.47:476][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.41.47:476][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.41.47:482][ 49]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.41.47:482][ 49]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/ChestD7C038DE4BAA96DDAA2FEABABD2CD38F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.41.47:506][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.632 ms (total: 20.9 sec)
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: Enabled validators:
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.41.47:606][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.41.47:606][ 49]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.41.49:384][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.05.15-21.42.11:797][744]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.42.11:797][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.42.11:897][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.15-21.42.13:447][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.42.13:596][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.42.13:596][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.42.13:596][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.42.13:604][815]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.42.13:605][815]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Chest167A11684740A1E7A302AFA76D169BD8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.42.13:642][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.002 ms (total: 21.1 sec)
+[2025.05.15-21.42.13:779][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.42.13:779][815]LogContentValidation: Enabled validators:
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.42.13:779][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.42.13:779][815]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.43.23:636][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9184.913086
+[2025.05.15-21.43.23:802][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.43.23:802][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9185.044922, Update Interval: 304.008301
+[2025.05.15-21.43.26:973][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.15-21.43.45:449][298]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.43.45:449][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.43.45:523][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-21.44.03:994][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.05.15-21.44.42:520][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.15-21.44.53:539][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.44.53:677][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.44.53:761][726]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.44.53:761][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.44.53:761][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.44.53:774][726]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.44.53:775][726]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter710B9A0D43FA22EC9F9405A4EA90BD62.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.44.53:808][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 269.130 ms (total: 21.3 sec)
+[2025.05.15-21.44.53:895][726]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.44.53:895][726]LogContentValidation: Enabled validators:
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.44.53:895][726]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.44.53:895][726]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.45.28:266][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.15-21.46.24:568][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.15-21.46.33:036][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.15-21.46.48:604][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.46.48:796][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.46.48:889][ 26]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.46.48:889][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.46.48:889][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.46.48:909][ 26]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.46.48:910][ 26]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter3CB2909B4C0535023B1C098F27D04BEA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.46.48:951][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.784 ms (total: 21.7 sec)
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: Enabled validators:
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.46.49:096][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.46.49:096][ 26]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.46.51:547][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.15-21.46.51:559][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.46.51:669][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.46.51:761][140]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Systems/Chest.Chest]
+[2025.05.15-21.46.51:761][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.46.51:761][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.46.51:769][140]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.46.51:770][140]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Chest62CEB92744FE3FC0BD7FFD8A4E1680A6.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.46.51:795][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.293 ms (total: 21.9 sec)
+[2025.05.15-21.46.51:931][140]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.46.51:931][140]LogContentValidation: Enabled validators:
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.46.51:931][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.46.51:932][140]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.47.35:173][967]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.15-21.47.40:058][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.15-21.47.41:109][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.47.41:316][131]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.47.41:414][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Systems/Chest.Chest]
+[2025.05.15-21.47.41:414][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.47.41:415][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.47.41:424][131]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.47.41:425][131]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/ChestD1A2F58A443C39730B4B8F8D02E5137A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.47.41:472][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.563 ms (total: 22.3 sec)
+[2025.05.15-21.47.41:615][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.47.41:615][131]LogContentValidation: Enabled validators:
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.47.41:615][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.47.41:615][131]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.48.13:298][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.15-21.48.37:494][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-21.48.37:503][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.48.37:698][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.48.37:802][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.48.37:802][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.48.37:802][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.48.37:822][731]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.48.37:822][731]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacterCB2559C949891B25CB3A2BA6378DD98D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.48.37:936][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 433.022 ms (total: 22.7 sec)
+[2025.05.15-21.48.38:150][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.48.38:150][731]LogContentValidation: Enabled validators:
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.48.38:150][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.48.38:150][731]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.49.27:827][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9549.025391
+[2025.05.15-21.49.28:831][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.49.28:831][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9549.687500, Update Interval: 322.015442
+[2025.05.15-21.50.04:440][115]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.50.04:636][115]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.50.04:847][115]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.50.04:906][115]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.50.29:299][115]LogSlate: Window 'Import Content' being destroyed
+[2025.05.15-21.50.29:474][115]LogInterchangeEngine: [Pending] Importing
+[2025.05.15-21.50.29:544][115]LogAutomationController: Ignoring very large delta of 25.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.50.30:356][118]LogStreaming: Display: FlushAsyncLoading(857): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.50.30:416][119]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Picking_Up.Picking_Up (Required Memory Estimate: 4.60 MB)
+[2025.05.15-21.50.30:462][119]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.50.30:521][119]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.15-21.50.30:521][119]LogInterchangeEngine: [Success] Import Done
+[2025.05.15-21.50.30:573][121]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Picking_Up.Picking_Up, at AnimationSequence/3d1d48f9595686d4f4369442435382b754e9ce61
+[2025.05.15-21.50.49:248][432]LogContentBrowser: Attempting asset rename: Picking_Up -> Tarrin_Loot
+[2025.05.15-21.50.49:640][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.50.49:641][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Tarrin_Loot] ([1] browsable assets)...
+[2025.05.15-21.50.49:732][432]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Tarrin_Loot.Tarrin_Loot]
+[2025.05.15-21.50.49:733][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Tarrin_Loot]
+[2025.05.15-21.50.49:733][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Tarrin_Loot" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Tarrin_Loot.uasset" SILENT=true
+[2025.05.15-21.50.49:754][432]LogSavePackage: Moving output files for package: /Game/Characters/Tarrin_Loot
+[2025.05.15-21.50.49:754][432]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Tarrin_Loot48CF1FCF4569AD63D975BB8C01678994.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Tarrin_Loot.uasset'
+[2025.05.15-21.50.49:759][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.206 ms (total: 22.8 sec)
+[2025.05.15-21.50.50:277][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2025.05.15-21.50.50:371][432]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2025.05.15-21.50.50:457][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-21.50.50:764][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.50.50:764][432]LogContentValidation: Enabled validators:
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.50.50:764][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.50.50:766][432]AssetCheck: /Game/Characters/Tarrin_Loot Validating asset
+[2025.05.15-21.51.01:121][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.51.01:122][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Tarrin/Animations/Tarrin_Loot] ([1] browsable assets)...
+[2025.05.15-21.51.01:122][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Tarrin/Animations/Tarrin_Loot]
+[2025.05.15-21.51.01:137][585]LogSavePackage: Moving output files for package: /Game/Characters/Tarrin/Animations/Tarrin_Loot
+[2025.05.15-21.51.01:137][585]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Tarrin_Loot15020EB14CE65AC5B4F5F6B9F058C2E0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Tarrin/Animations/Tarrin_Loot.uasset'
+[2025.05.15-21.51.01:144][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.098 ms (total: 22.9 sec)
+[2025.05.15-21.51.01:712][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.05.15-21.51.01:797][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2025.05.15-21.51.01:880][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.05.15-21.51.02:089][585]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.15-21.51.02:089][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.51.02:089][585]LogContentValidation: Enabled validators:
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.51.02:089][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.51.02:089][585]AssetCheck: /Game/Characters/Tarrin/Animations/Tarrin_Loot Validating asset
+[2025.05.15-21.51.12:074][736]LogContentBrowser: Deferred new asset file creation: Tarrin_Loot1
+[2025.05.15-21.51.12:101][736]LogContentBrowser: Creating deferred item: Tarrin_Loot1
+[2025.05.15-21.51.12:152][737]LogContentBrowser: Renaming the item being created (Deferred Item: Tarrin_Loot1).
+[2025.05.15-21.51.13:619][775]LogContentBrowser: Attempting asset rename: Tarrin_Loot1 -> Tarrin_Loot1
+[2025.05.15-21.51.13:665][775]LogContentBrowser: End creating deferred item Tarrin_Loot1
+[2025.05.15-21.51.17:874][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_101
+[2025.05.15-21.51.50:167][ 61]LogSlate: Window 'Export Retarget Assets' being destroyed
+[2025.05.15-21.51.50:442][ 61]LogAutomationController: Ignoring very large delta of 10.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.51.50:672][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_102
+[2025.05.15-21.51.50:780][ 64]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2025.05.15-21.51.55:710][119]LogSlate: Window 'Retarget Animations' being destroyed
+[2025.05.15-21.52.03:380][273]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2025.05.15-21.52.05:761][273]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.15-21.52.05:872][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.15-21.52.05:941][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.15-21.52.06:011][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.05.15-21.52.06:055][273]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.52.14:259][456]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.14:259][456]LogEditorTransaction: Undo Add Retarget Op
+[2025.05.15-21.52.16:662][490]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.16:662][490]LogEditorTransaction: Undo Auto Align All Bones
+[2025.05.15-21.52.17:795][507]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.17:796][507]LogEditorTransaction: Undo Auto-Map Retarget Chains
+[2025.05.15-21.52.18:660][525]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.18:660][525]LogEditorTransaction: Undo Auto Setup FBIK
+[2025.05.15-21.52.20:255][547]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.20:255][547]LogEditorTransaction: Undo Auto Setup FBIK
+[2025.05.15-21.52.20:923][557]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.20:923][557]LogEditorTransaction: Undo Auto Setup FBIK
+[2025.05.15-21.52.21:597][567]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.21:597][567]LogEditorTransaction: Undo Edit Skeleton
+[2025.05.15-21.52.22:202][576]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.22:202][576]LogEditorTransaction: Undo Rename Node
+[2025.05.15-21.52.23:166][596]Cmd: TRANSACTION UNDO
+[2025.05.15-21.52.23:167][596]LogEditorTransaction: Undo Add Node
+[2025.05.15-21.52.30:515][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2025.05.15-21.52.39:421][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.52.39:627][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.05.15-21.52.39:794][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.05.15-21.52.39:794][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.05.15-21.52.39:795][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2025.05.15-21.52.39:824][ 35]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.05.15-21.52.39:827][ 35]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/BP_TopDownCharacter189CBFF14386012FDCE26AB150E93FF3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.05.15-21.52.39:882][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 459.828 ms (total: 23.3 sec)
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: Enabled validators:
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.52.40:097][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.52.40:098][ 35]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.05.15-21.52.47:101][161]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2025.05.15-21.52.47:123][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.52.47:324][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Tarrin/Animations/Tarrin_Loot1] ([1] browsable assets)...
+[2025.05.15-21.52.47:450][161]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Tarrin/Animations/Tarrin_Loot1.Tarrin_Loot1]
+[2025.05.15-21.52.47:450][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Tarrin/Animations/Tarrin_Loot1]
+[2025.05.15-21.52.47:475][161]LogSavePackage: Moving output files for package: /Game/Characters/Tarrin/Animations/Tarrin_Loot1
+[2025.05.15-21.52.47:475][161]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Tarrin_Loot151EE16A64033874D62D2878C1DA7A586.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Tarrin/Animations/Tarrin_Loot1.uasset'
+[2025.05.15-21.52.47:494][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Kael/Animations/RTG_AutoGenerated] ([1] browsable assets)...
+[2025.05.15-21.52.47:522][161]OBJ SavePackage:     Rendered thumbnail for [IKRetargeter /Game/Characters/Kael/Animations/RTG_AutoGenerated.RTG_AutoGenerated]
+[2025.05.15-21.52.47:522][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Kael/Animations/RTG_AutoGenerated]
+[2025.05.15-21.52.47:535][161]LogSavePackage: Moving output files for package: /Game/Characters/Kael/Animations/RTG_AutoGenerated
+[2025.05.15-21.52.47:535][161]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/RTG_AutoGeneratedFCCFD12C43E456C4F1D7DD96A6FF9011.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/RTG_AutoGenerated.uasset'
+[2025.05.15-21.52.47:541][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Kael/Animations/IK_AutoGeneratedTarget] ([1] browsable assets)...
+[2025.05.15-21.52.47:569][161]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/Characters/Kael/Animations/IK_AutoGeneratedTarget.IK_AutoGeneratedTarget]
+[2025.05.15-21.52.47:569][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Kael/Animations/IK_AutoGeneratedTarget]
+[2025.05.15-21.52.47:581][161]LogSavePackage: Moving output files for package: /Game/Characters/Kael/Animations/IK_AutoGeneratedTarget
+[2025.05.15-21.52.47:581][161]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/IK_AutoGeneratedTarget7435330F42C3C33635C4AB8AE63A8198.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/IK_AutoGeneratedTarget.uasset'
+[2025.05.15-21.52.47:644][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 521.283 ms (total: 23.9 sec)
+[2025.05.15-21.52.47:886][161]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.15-21.52.47:886][161]LogContentValidation: Enabled validators:
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.52.47:886][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.52.47:887][161]AssetCheck: /Game/Characters/Tarrin/Animations/Tarrin_Loot1 Validating asset
+[2025.05.15-21.52.47:887][161]AssetCheck: /Game/Characters/Kael/Animations/RTG_AutoGenerated Validating asset
+[2025.05.15-21.52.47:887][161]AssetCheck: /Game/Characters/Kael/Animations/IK_AutoGeneratedTarget Validating asset
+[2025.05.15-21.52.50:511][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2025.05.15-21.52.52:560][211]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.15-21.52.52:676][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.15-21.52.52:744][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.15-21.52.52:817][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.05.15-21.52.52:858][211]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.53.17:167][548]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2025.05.15-21.53.17:255][548]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Tarrin/Animations/Tarrin_Loot1.Tarrin_Loot1 (Required Memory Estimate: 3.72 MB)
+[2025.05.15-21.53.17:374][548]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Tarrin/Animations/Tarrin_Loot1.Tarrin_Loot1, at AnimationSequence/51e2e3ca56f315d30f9a91a293e7f4168542479d
+[2025.05.15-21.53.17:545][548]LogAutomationController: Ignoring very large delta of 4.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.53.22:274][597]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Tarrin/Animations/Tarrin_Loot1.Tarrin_Loot1
+[2025.05.15-21.53.22:276][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_104
+[2025.05.15-21.53.22:330][597]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.15-21.53.23:217][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_105
+[2025.05.15-21.53.24:466][597]LogAutomationController: Ignoring very large delta of 2.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.53.30:520][659]LogSlate: Window 'Tarrin_Loot1' being destroyed
+[2025.05.15-21.53.30:539][659]LogSlate: Window 'Tarrin_Loot1' being destroyed
+[2025.05.15-21.53.30:619][659]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.53.30:619][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.53.30:819][659]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.53.30:819][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.53.31:004][659]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2025.05.15-21.53.35:779][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.53.35:780][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Kael/Animations/Tarrin_Loot1] ([1] browsable assets)...
+[2025.05.15-21.53.35:780][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Kael/Animations/Tarrin_Loot1]
+[2025.05.15-21.53.35:780][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Kael/Animations/Tarrin_Loot1" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/Tarrin_Loot1.uasset" SILENT=true
+[2025.05.15-21.53.35:797][707]LogSavePackage: Moving output files for package: /Game/Characters/Kael/Animations/Tarrin_Loot1
+[2025.05.15-21.53.35:797][707]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Tarrin_Loot1CD8B2DEB4DEEB4B59036E99423CB395B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/Tarrin_Loot1.uasset'
+[2025.05.15-21.53.35:805][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.000 ms (total: 23.9 sec)
+[2025.05.15-21.53.36:381][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2025.05.15-21.53.36:464][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2025.05.15-21.53.36:548][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.15-21.53.36:757][707]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.15-21.53.36:757][707]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.53.36:757][707]LogContentValidation: Enabled validators:
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.53.36:757][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.53.36:757][707]AssetCheck: /Game/Characters/Kael/Animations/Tarrin_Loot1 Validating asset
+[2025.05.15-21.53.52:261][993]LogContentBrowser: Attempting asset rename: Tarrin_Loot1 -> Kael_Loot
+[2025.05.15-21.53.52:715][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.53.52:716][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Kael/Animations/Kael_Loot] ([1] browsable assets)...
+[2025.05.15-21.53.52:716][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Kael/Animations/Kael_Loot]
+[2025.05.15-21.53.52:716][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Kael/Animations/Kael_Loot" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/Kael_Loot.uasset" SILENT=true
+[2025.05.15-21.53.52:732][993]LogSavePackage: Moving output files for package: /Game/Characters/Kael/Animations/Kael_Loot
+[2025.05.15-21.53.52:732][993]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Kael_LootCA92E89047B5575B4E0598B62FBC9280.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Kael/Animations/Kael_Loot.uasset'
+[2025.05.15-21.53.52:741][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.529 ms (total: 23.9 sec)
+[2025.05.15-21.53.53:211][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2025.05.15-21.53.53:304][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2025.05.15-21.53.53:398][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.05.15-21.53.53:710][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.53.53:710][993]LogContentValidation: Enabled validators:
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.53.53:710][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.53.53:711][993]AssetCheck: /Game/Characters/Kael/Animations/Kael_Loot Validating asset
+[2025.05.15-21.54.09:474][241]LogStreaming: Display: FlushAsyncLoading(858): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.54.09:704][241]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.54.09:864][241]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.54.09:910][241]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.54.15:533][241]LogSlate: Window 'Import Content' being destroyed
+[2025.05.15-21.54.15:689][241]LogInterchangeEngine: [Pending] Importing
+[2025.05.15-21.54.15:730][241]LogAutomationController: Ignoring very large delta of 6.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.54.16:372][244]LogStreaming: Display: FlushAsyncLoading(859): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.54.16:422][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Wisp/Animations/Picking_Up.Picking_Up (Required Memory Estimate: 4.60 MB)
+[2025.05.15-21.54.16:461][245]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.54.16:494][245]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.15-21.54.16:494][245]LogInterchangeEngine: [Success] Import Done
+[2025.05.15-21.54.16:536][247]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Wisp/Animations/Picking_Up.Picking_Up, at AnimationSequence/100f37978f64e3fa82bcb35ce305f98a39c90c46
+[2025.05.15-21.54.25:929][377]LogContentBrowser: Attempting asset rename: Picking_Up -> Loot
+[2025.05.15-21.54.26:310][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.54.26:310][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Wisp/Animations/Loot] ([1] browsable assets)...
+[2025.05.15-21.54.26:408][377]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Wisp/Animations/Loot.Loot]
+[2025.05.15-21.54.26:408][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Wisp/Animations/Loot]
+[2025.05.15-21.54.26:408][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Wisp/Animations/Loot" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Animations/Loot.uasset" SILENT=true
+[2025.05.15-21.54.26:426][377]LogSavePackage: Moving output files for package: /Game/Characters/Wisp/Animations/Loot
+[2025.05.15-21.54.26:426][377]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/LootB46F47BC435EF939791DDE808C9A8D95.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Animations/Loot.uasset'
+[2025.05.15-21.54.26:432][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.000 ms (total: 24.0 sec)
+[2025.05.15-21.54.26:842][377]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2025.05.15-21.54.26:928][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2025.05.15-21.54.27:003][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.15-21.54.27:299][377]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.54.27:299][377]LogContentValidation: Enabled validators:
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.54.27:299][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.54.27:299][377]AssetCheck: /Game/Characters/Wisp/Animations/Loot Validating asset
+[2025.05.15-21.54.33:866][500]LogStreaming: Display: FlushAsyncLoading(860): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.54.34:065][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.54.34:229][500]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.54.34:271][500]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.15-21.54.40:109][500]LogSlate: Window 'Import Content' being destroyed
+[2025.05.15-21.54.40:263][500]LogInterchangeEngine: [Pending] Importing
+[2025.05.15-21.54.40:307][500]LogAutomationController: Ignoring very large delta of 6.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.15-21.54.41:029][503]LogStreaming: Display: FlushAsyncLoading(861): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.54.41:069][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: LeftHandThumb1
+[2025.05.15-21.54.41:069][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: LeftHandThumb2
+[2025.05.15-21.54.41:069][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: LeftHandThumb3
+[2025.05.15-21.54.41:069][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: RightHandThumb1
+[2025.05.15-21.54.41:070][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: RightHandThumb2
+[2025.05.15-21.54.41:070][504]LogScript: Error: Script Msg: /Game/Characters/Solaria/Animations/Picking_Up : Unable to retrieve bone index for track: RightHandThumb3
+[2025.05.15-21.54.41:080][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Solaria/Animations/Picking_Up.Picking_Up (Required Memory Estimate: 3.72 MB)
+[2025.05.15-21.54.41:122][504]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Trevor Hicks/Downloads/Picking Up.fbx]
+[2025.05.15-21.54.41:153][504]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.15-21.54.41:153][504]LogInterchangeEngine: [Success] Import Done
+[2025.05.15-21.54.41:199][506]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Solaria/Animations/Picking_Up.Picking_Up, at AnimationSequence/a805da8cacbae3ccc0184272b4d0660d886798be
+[2025.05.15-21.54.48:990][630]LogContentBrowser: Attempting asset rename: Picking_Up -> Loot
+[2025.05.15-21.54.49:361][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.54.49:361][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Solaria/Animations/Loot] ([1] browsable assets)...
+[2025.05.15-21.54.49:457][630]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Solaria/Animations/Loot.Loot]
+[2025.05.15-21.54.49:457][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Solaria/Animations/Loot]
+[2025.05.15-21.54.49:457][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Solaria/Animations/Loot" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Solaria/Animations/Loot.uasset" SILENT=true
+[2025.05.15-21.54.49:475][630]LogSavePackage: Moving output files for package: /Game/Characters/Solaria/Animations/Loot
+[2025.05.15-21.54.49:475][630]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Loot1451C1AA45F911DE589375BF5E944C5C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Solaria/Animations/Loot.uasset'
+[2025.05.15-21.54.49:483][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.734 ms (total: 24.1 sec)
+[2025.05.15-21.54.49:971][630]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2025.05.15-21.54.50:057][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2025.05.15-21.54.50:148][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.15-21.54.50:469][630]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.54.50:469][630]LogContentValidation: Enabled validators:
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.54.50:469][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.54.50:469][630]AssetCheck: /Game/Characters/Solaria/Animations/Loot Validating asset
+[2025.05.15-21.55.01:231][838]LogContentBrowser: Attempting asset rename: Loot -> Solaria_Loot
+[2025.05.15-21.55.01:639][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.55.01:639][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Solaria/Animations/Solaria_Loot] ([1] browsable assets)...
+[2025.05.15-21.55.01:639][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Solaria/Animations/Solaria_Loot]
+[2025.05.15-21.55.01:652][838]LogSavePackage: Moving output files for package: /Game/Characters/Solaria/Animations/Solaria_Loot
+[2025.05.15-21.55.01:653][838]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Solaria_LootEDF70A0A48A15F774FEB84ACA3BF17E3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Solaria/Animations/Solaria_Loot.uasset'
+[2025.05.15-21.55.01:656][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.733 ms (total: 24.2 sec)
+[2025.05.15-21.55.02:165][838]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2025.05.15-21.55.02:253][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2025.05.15-21.55.02:337][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.15-21.55.02:659][838]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.55.02:659][838]LogContentValidation: Enabled validators:
+[2025.05.15-21.55.02:659][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.55.02:660][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.55.02:660][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.55.02:660][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.55.02:660][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.55.02:660][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.55.02:660][838]AssetCheck: /Game/Characters/Solaria/Animations/Solaria_Loot Validating asset
+[2025.05.15-21.55.13:362][ 31]LogContentBrowser: Attempting asset rename: Loot -> Wisp_Loot
+[2025.05.15-21.55.13:781][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.55.13:781][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Wisp/Animations/Wisp_Loot] ([1] browsable assets)...
+[2025.05.15-21.55.13:781][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Wisp/Animations/Wisp_Loot]
+[2025.05.15-21.55.13:781][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Wisp/Animations/Wisp_Loot" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Animations/Wisp_Loot.uasset" SILENT=true
+[2025.05.15-21.55.13:795][ 31]LogSavePackage: Moving output files for package: /Game/Characters/Wisp/Animations/Wisp_Loot
+[2025.05.15-21.55.13:795][ 31]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Wisp_Loot0D67306149FCE08C1BE9E98F6C6B41BE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Characters/Wisp/Animations/Wisp_Loot.uasset'
+[2025.05.15-21.55.13:801][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.633 ms (total: 24.2 sec)
+[2025.05.15-21.55.14:284][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.15-21.55.14:366][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2025.05.15-21.55.14:447][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: Enabled validators:
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.55.14:762][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.55.14:763][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.55.14:763][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.55.14:763][ 31]AssetCheck: /Game/Characters/Wisp/Animations/Wisp_Loot Validating asset
+[2025.05.15-21.55.43:029][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9924.209961
+[2025.05.15-21.55.43:291][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-21.55.43:292][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9924.408203, Update Interval: 358.231140
+[2025.05.15-21.56.10:190][860]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\TFT\TFT\Content\Systems\Chest.uasset: [Compiler] This blueprint (self) is not a SkeletalMeshComponent, therefore ' Target ' must have a connection.
+[2025.05.15-21.56.10:203][860]LogStreaming: Display: FlushAsyncLoading(862): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-21.56.10:371][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2025.05.15-21.56.18:968][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2025.05.15-21.56.33:944][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-21.56.34:152][429]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Systems/Chest] ([2] browsable assets)...
+[2025.05.15-21.56.34:294][429]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Systems/Chest.Chest]
+[2025.05.15-21.56.34:294][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Systems/Chest]
+[2025.05.15-21.56.34:294][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Systems/Chest" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset" SILENT=true
+[2025.05.15-21.56.34:309][429]LogSavePackage: Moving output files for package: /Game/Systems/Chest
+[2025.05.15-21.56.34:312][429]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/ChestFE04C64F4DA3FD5E96EDA499E55DB97B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/Systems/Chest.uasset'
+[2025.05.15-21.56.34:359][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 414.795 ms (total: 24.6 sec)
+[2025.05.15-21.56.34:629][429]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-21.56.34:629][429]LogContentValidation: Enabled validators:
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-21.56.34:629][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-21.56.34:630][429]AssetCheck: /Game/Systems/Chest Validating asset
+[2025.05.15-21.56.49:195][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.15-21.56.50:236][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.15-21.56.50:322][555]LogStall: Shutdown...
+[2025.05.15-21.56.50:322][555]LogStall: Shutdown complete.
+[2025.05.15-21.56.50:421][555]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.15-21.56.50:421][555]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.50:421][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.50:544][555]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.15-21.56.50:544][555]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.50:544][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.50:653][555]LogSlate: Window 'TFT - Unreal Editor' being destroyed
+[2025.05.15-21.56.50:655][555]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.15-21.56.51:207][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.15-21.56.51:237][555]Cmd: QUIT_EDITOR
+[2025.05.15-21.56.51:237][556]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.15-21.56.51:247][556]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.15-21.56.51:247][556]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.15-21.56.51:247][556]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.15-21.56.51:249][556]LogWorld: UWorld::CleanupWorld for StartingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:249][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:249][556]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/GameLevels/StartingLevel.StartingLevel
+[2025.05.15-21.56.51:265][556]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.15-21.56.51:267][556]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.15-21.56.51:284][556]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:284][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:289][556]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:289][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:295][556]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:295][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:303][556]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:303][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:310][556]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:310][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:317][556]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:317][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:326][556]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:326][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:331][556]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:331][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:337][556]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:337][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:343][556]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:343][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:347][556]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:347][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:352][556]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:352][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:356][556]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:356][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:363][556]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:363][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:372][556]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:372][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:378][556]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:378][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:383][556]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:383][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:391][556]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:391][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:397][556]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:397][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:402][556]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:402][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:410][556]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:410][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:416][556]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:416][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:425][556]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:425][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:435][556]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:436][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:443][556]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:443][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:451][556]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:451][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:456][556]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:456][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:460][556]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:460][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:464][556]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:464][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:467][556]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:467][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:472][556]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:472][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:477][556]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:477][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:486][556]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:486][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:490][556]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:490][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:494][556]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:494][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:497][556]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:497][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:502][556]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:502][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:509][556]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:509][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:520][556]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:520][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:525][556]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:525][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:532][556]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:532][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:541][556]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:541][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:549][556]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:549][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:556][556]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:556][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:564][556]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:564][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:569][556]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:569][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:574][556]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:574][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:579][556]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:579][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:587][556]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:587][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:596][556]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:596][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:605][556]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:605][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:611][556]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:611][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:622][556]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:622][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:630][556]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-21.56.51:630][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-21.56.51:639][556]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.15-21.56.51:648][556]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.15-21.56.51:648][556]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.15-21.56.51:648][556]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.15-21.56.52:307][556]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.15-21.56.52:307][556]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.15-21.56.52:307][556]LogAudio: Display: Audio Device unregistered from world 'StartingLevel'.
+[2025.05.15-21.56.52:307][556]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.15-21.56.52:308][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.15-21.56.52:317][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.15-21.56.52:338][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.15-21.56.52:338][556]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.15-21.56.52:346][556]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.15-21.56.52:349][556]LogExit: Preparing to exit.
+[2025.05.15-21.56.52:443][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2025.05.15-21.56.52:463][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:463][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:465][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:466][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:467][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:467][556]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.52:467][556]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.15-21.56.53:543][556]LogEditorDataStorage: Deinitializing
+[2025.05.15-21.56.53:627][556]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Trevor Hicks/Desktop/TFT/TFT/Content/]. Aborting watch request...
+[2025.05.15-21.56.53:754][556]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.15-21.56.53:788][556]LogExit: Editor shut down
+[2025.05.15-21.56.53:794][556]LogExit: Transaction tracking system shut down
+[2025.05.15-21.56.54:266][556]LogExit: Object subsystem successfully closed.
+[2025.05.15-21.56.54:381][556]LogShaderCompilers: Display: Shaders left to compile 0
