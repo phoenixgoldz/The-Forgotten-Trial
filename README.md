@@ -1,4 +1,4 @@
-![The Forgotten Trial Banner](TFTbannerIMG.png)
+![The Forgotten Trial Banner](titleart.png)
 
 # **The Forgotten Trial**  
 *A Tactical RPG Mystery by Phoenix Gold Gaming Studios*
@@ -61,6 +61,17 @@ Unreal Engine 5.5.4
 The project’s core goal is to deliver a **unique and replayable experience**, shaped by choice, consequence, and cryptic AI narration.
 
 Each decision brings you closer to the truth… or further from it.
+
+---
+## Design Pattern: Strategy Pattern
+
+We are using the Strategy pattern to give each party member a unique attack behavior.
+
+For example:
+- Solari uses `BP_Strategy_MeleeAttack`
+- Wisp uses `BP_Strategy_MagicAttack`
+
+This allows us to easily expand combat behavior without rewriting core logic in the character class. It improves modularity and makes future balancing or ability upgrades cleaner and more manageable.
 
 ---
 
