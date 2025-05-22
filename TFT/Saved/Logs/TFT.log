@@ -4439,3 +4439,240 @@ Make sure '/Game/Characters/Kael/Animations/APB_KaelMovement.APB_KaelMovement_C'
 [2025.05.22-20.14.42:970][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5479.666992
 [2025.05.22-20.14.43:967][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.22-20.14.43:967][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5480.331055, Update Interval: 356.658234
+[2025.05.22-20.21.40:051][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5896.749512
+[2025.05.22-20.21.41:051][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-20.21.41:051][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5897.415527, Update Interval: 331.899780
+[2025.05.22-20.23.04:975][146]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-20.23.05:121][146]LoadErrors: Error: The summary for the package '/Game/UserInterface/WBP_MainMenu' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.05.22-20.23.05:210][146]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\TFT\TFT\Content\UserInterface\WBP_Credits.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2025.05.22-20.23.05:247][146]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/WBP_Credits.WBP_Credits
+[2025.05.22-20.23.05:248][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_76
+[2025.05.22-20.23.05:257][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_77
+[2025.05.22-20.23.52:652][880]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\TFT\TFT\Content\UserInterface\WBP_Credits.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2025.05.22-20.23.52:716][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.22-20.25.20:510][538]LogContentBrowser: Attempting asset rename: MainMenuScreen -> MainMenuScreen
+[2025.05.22-20.25.26:608][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.05.22-20.26.12:097][869]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.22-20.26.16:475][959]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.26.16:475][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.26.16:631][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.22-20.26.19:577][  7]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.26.19:577][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.26.19:591][  7]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.26.19:591][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.26.19:719][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.22-20.26.25:448][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-20.26.25:661][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UserInterface/WBP_Credits] ([2] browsable assets)...
+[2025.05.22-20.26.25:691][186]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UserInterface/WBP_Credits.WBP_Credits]
+[2025.05.22-20.26.25:691][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_Credits]
+[2025.05.22-20.26.25:692][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/WBP_Credits" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_Credits.uasset" SILENT=true
+[2025.05.22-20.26.25:712][186]LogSavePackage: Moving output files for package: /Game/UserInterface/WBP_Credits
+[2025.05.22-20.26.25:713][186]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WBP_Credits82C060CC42E466E2EBCB2ABAD96E3D5F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_Credits.uasset'
+[2025.05.22-20.26.25:757][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 309.531 ms (total: 7.43 sec)
+[2025.05.22-20.26.25:907][186]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-20.26.25:907][186]LogContentValidation: Enabled validators:
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-20.26.25:907][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-20.26.25:909][186]AssetCheck: /Game/UserInterface/WBP_Credits Validating asset
+[2025.05.22-20.27.45:308][521]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6261.996582
+[2025.05.22-20.27.46:308][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-20.27.46:308][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6262.664062, Update Interval: 336.294434
+[2025.05.22-20.30.39:420][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.05.22-20.32.09:779][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.22-20.32.09:785][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevels/StartingLevel' took 0.035
+[2025.05.22-20.32.09:785][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UserInterface/WBP_Credits] ([2] browsable assets)...
+[2025.05.22-20.32.09:791][913]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UserInterface/WBP_Credits.WBP_Credits]
+[2025.05.22-20.32.09:791][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_Credits]
+[2025.05.22-20.32.09:804][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UserInterface/WBP_Credits_Auto5
+[2025.05.22-20.32.09:804][913]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WBP_Credits_Auto5E25A441B477358482315639F4325A7B9.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/Autosaves/Game/UserInterface/WBP_Credits_Auto5.uasset'
+[2025.05.22-20.32.09:805][913]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.05.22-20.33.59:489][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6636.178223
+[2025.05.22-20.34.00:491][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-20.34.00:491][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6636.845215, Update Interval: 306.806244
+[2025.05.22-20.34.02:091][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.22-20.34.03:218][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-20.34.03:327][229]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UserInterface/WBP_Credits] ([2] browsable assets)...
+[2025.05.22-20.34.03:342][229]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UserInterface/WBP_Credits.WBP_Credits]
+[2025.05.22-20.34.03:342][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_Credits]
+[2025.05.22-20.34.03:342][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/WBP_Credits" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_Credits.uasset" SILENT=true
+[2025.05.22-20.34.03:361][229]LogSavePackage: Moving output files for package: /Game/UserInterface/WBP_Credits
+[2025.05.22-20.34.03:362][229]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WBP_Credits1E1F8AF445128DA28D79EBB4C3C8411A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_Credits.uasset'
+[2025.05.22-20.34.03:387][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.823 ms (total: 7.60 sec)
+[2025.05.22-20.34.03:508][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-20.34.03:508][229]LogContentValidation: Enabled validators:
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-20.34.03:508][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-20.34.03:510][229]AssetCheck: /Game/UserInterface/WBP_Credits Validating asset
+[2025.05.22-20.34.05:447][297]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.34.05:447][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.34.05:462][297]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.34.05:462][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.34.05:551][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.22-20.34.12:490][493]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/WBP_GameHUD.WBP_GameHUD
+[2025.05.22-20.34.12:491][493]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_80
+[2025.05.22-20.34.12:509][493]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2025.05.22-20.34.33:047][303]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-20.34.33:054][303]LogContentBundle: [StartingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-20.34.33:054][303]LogWorldPartition: Display: GenerateStreaming for 'StartingLevel' started...
+[2025.05.22-20.34.33:056][303]LogWorldPartition: Display: GenerateStreaming for 'StartingLevel' took 1.944 ms (total: 50.617 ms)
+[2025.05.22-20.34.33:056][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-20.34.33:056][303]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_StartingLevel
+[2025.05.22-20.34.33:059][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003888s)
+[2025.05.22-20.34.33:059][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/StartingLevel.StartingLevel to /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel (0.003922s)
+[2025.05.22-20.34.33:114][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.22-20.34.33:116][303]LogChaosDD: Creating Chaos Debug Draw Scene for world StartingLevel
+[2025.05.22-20.34.33:118][303]LogWorldPartition: ULevel::OnLevelLoaded(StartingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-20.34.33:118][303]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-20.34.33:118][303]LogWorldPartition: UWorldPartition::Initialize : World = /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-20.34.33:118][303]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-20.34.33:120][303]LogWorldPartition: Display: WorldPartition initialize took 1.277 ms (total: 378.810 ms)
+[2025.05.22-20.34.33:120][303]LogPlayLevel: PIE: World Init took: (0.003107s)
+[2025.05.22-20.34.33:120][303]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.05.22-20.34.33:120][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-20.34.33:121][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-20.34.33:121][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-20.34.33:121][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-20.34.33:121][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-20.34.33:121][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-20.34.33:123][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-20.34.33:148][303]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.22-20.34.33:149][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-20.34.33:149][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-20.34.33:149][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-20.34.33:149][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.05.22-20.34.33:150][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.05.22-20.34.33:152][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.05.22-20.34.33:152][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.05.22-20.34.33:152][303]LogInit: FAudioDevice initialized with ID 15.
+[2025.05.22-20.34.33:152][303]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartingLevel'.
+[2025.05.22-20.34.33:152][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.22-20.34.33:236][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-20.34.33:236][303]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.22-20.34.33:239][303]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel up for play (max tick rate 0) at 2025.05.22-14.34.33
+[2025.05.22-20.34.33:239][303]LogWorld: Bringing up level for play took: 0.002415
+[2025.05.22-20.34.33:243][303]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.05.22-20.34.33:254][303]PIE: Server logged in
+[2025.05.22-20.34.33:256][303]PIE: Play in editor total start time 0.202 seconds.
+[2025.05.22-20.34.39:319][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-20.34.39:319][386]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_StartingLevel
+[2025.05.22-20.34.39:319][386]LogSlate: Window 'TFT Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.22-20.34.39:472][386]LogWorld: UWorld::CleanupWorld for StartingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.34.39:473][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.34.39:473][386]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel
+[2025.05.22-20.34.39:478][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-20.34.39:490][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.34.39:526][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.22-20.34.39:527][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.22-20.34.39:527][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.22-20.34.39:531][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.22-20.34.39:541][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.22-20.34.39:597][387]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.05.22-20.34.40:154][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.22-20.34.40:167][403]LogContentBundle: [StartingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-20.34.40:167][403]LogWorldPartition: Display: GenerateStreaming for 'StartingLevel' started...
+[2025.05.22-20.34.40:181][403]LogWorldPartition: Display: GenerateStreaming for 'StartingLevel' took 13.887 ms (total: 64.504 ms)
+[2025.05.22-20.34.40:181][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-20.34.40:181][403]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_StartingLevel
+[2025.05.22-20.34.40:188][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006473s)
+[2025.05.22-20.34.40:188][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/StartingLevel.StartingLevel to /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel (0.006525s)
+[2025.05.22-20.34.40:219][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.22-20.34.40:221][403]LogChaosDD: Creating Chaos Debug Draw Scene for world StartingLevel
+[2025.05.22-20.34.40:224][403]LogWorldPartition: ULevel::OnLevelLoaded(StartingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-20.34.40:224][403]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-20.34.40:224][403]LogWorldPartition: UWorldPartition::Initialize : World = /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-20.34.40:224][403]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-20.34.40:226][403]LogWorldPartition: Display: WorldPartition initialize took 2.218 ms (total: 381.028 ms)
+[2025.05.22-20.34.40:226][403]LogPlayLevel: PIE: World Init took: (0.004645s)
+[2025.05.22-20.34.40:228][403]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-20.34.40:228][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-20.34.40:228][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-20.34.40:228][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-20.34.40:228][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-20.34.40:228][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-20.34.40:232][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-20.34.40:275][403]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.05.22-20.34.40:276][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-20.34.40:276][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-20.34.40:276][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-20.34.40:276][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.05.22-20.34.40:276][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.05.22-20.34.40:281][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.05.22-20.34.40:281][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.05.22-20.34.40:281][403]LogInit: FAudioDevice initialized with ID 16.
+[2025.05.22-20.34.40:281][403]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartingLevel'.
+[2025.05.22-20.34.40:281][403]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.22-20.34.40:286][403]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.22-20.34.40:289][403]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel up for play (max tick rate 0) at 2025.05.22-14.34.40
+[2025.05.22-20.34.40:290][403]LogWorld: Bringing up level for play took: 0.002800
+[2025.05.22-20.34.40:293][403]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2025.05.22-20.34.40:300][403]PIE: Server logged in
+[2025.05.22-20.34.40:302][403]PIE: Play in editor total start time 0.135 seconds.
+[2025.05.22-20.35.02:449][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-20.35.02:449][701]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_StartingLevel
+[2025.05.22-20.35.02:449][701]LogWorld: UWorld::CleanupWorld for StartingLevel, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.35.02:449][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.35.02:449][701]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/GameLevels/UEDPIE_0_StartingLevel.StartingLevel
+[2025.05.22-20.35.02:522][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-20.35.02:532][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.35.02:568][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-20.35.02:569][701]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.22-20.35.02:569][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.22-20.35.02:573][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.22-20.35.02:586][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.22-20.35.02:627][702]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2025.05.22-20.35.02:631][702]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.22-20.36.57:260][863]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.22-20.37.00:852][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.05.22-20.37.00:864][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-20.37.01:004][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UserInterface/WBP_GameHUD] ([2] browsable assets)...
+[2025.05.22-20.37.01:004][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_GameHUD]
+[2025.05.22-20.37.01:004][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/WBP_GameHUD" FILE="../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_GameHUD.uasset" SILENT=true
+[2025.05.22-20.37.01:028][979]LogSavePackage: Moving output files for package: /Game/UserInterface/WBP_GameHUD
+[2025.05.22-20.37.01:029][979]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Saved/WBP_GameHUD2C50B3FE4FCDE72A5928578B9A86DA11.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/TFT/TFT/Content/UserInterface/WBP_GameHUD.uasset'
+[2025.05.22-20.37.01:107][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.227 ms (total: 7.84 sec)
+[2025.05.22-20.37.01:229][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-20.37.01:229][979]LogContentValidation: Enabled validators:
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-20.37.01:229][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-20.37.01:231][979]AssetCheck: /Game/UserInterface/WBP_GameHUD Validating asset
+[2025.05.22-20.37.09:832][306]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.37.09:833][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.37.09:847][306]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.37.09:847][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.37.09:957][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.22-20.37.14:848][402]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-20.37.14:861][402]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Modular_MedievalTown_WI/UI/WBP_DoorInteraction.WBP_DoorInteraction
+[2025.05.22-20.37.14:861][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_83
+[2025.05.22-20.37.14:873][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_84
+[2025.05.22-20.37.19:858][464]LogSlate: Window 'WBP_DoorInteraction' being destroyed
+[2025.05.22-20.37.20:010][464]LogSlate: Window 'WBP_DoorInteraction' being destroyed
+[2025.05.22-20.37.20:040][464]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.37.20:040][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.37.20:056][464]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-20.37.20:056][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-20.37.20:181][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.22-20.37.55:160][509]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.22-20.38.38:616][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
