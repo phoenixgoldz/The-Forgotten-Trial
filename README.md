@@ -20,7 +20,7 @@ Guide your team through **puzzles**, **exploration**, and a **dynamic narrative*
   Top-down based battles inspired by genre classics like *Fire Emblem* and *Paths of Exile*.
 
 * 🧠 **Dynamic Narrative System**
-  A cryptic narrative generates hallucinations, memory fragments, and ghostly dialogues that shift with each playthrough.
+  A cryptic narrative generates memory fragments, and ghostly dialogues that shift with each playthrough.
 
 * 👥 **Party Management**
   Control a diverse team of 1–4 characters. Each has their own mysterious past, evolving personalities, and trust-based reactions to your decisions.
@@ -69,9 +69,3 @@ For example:
 This allows us to easily expand combat behavior without rewriting core logic in the character class. It improves modularity and makes future balancing or ability upgrades cleaner and more manageable.
 
 ---
-
-## 📬 Contact
-
-Questions, feedback, or collaboration requests?
-🌐 [Portfolio](https://phoenixgoldz.github.io/)
-✉️ Trevor H. (Founder of PhoenixGold Game Studios)
