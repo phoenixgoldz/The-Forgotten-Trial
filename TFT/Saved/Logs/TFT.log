@@ -6261,3 +6261,6 @@ Make sure 'BP_AudioManager_C' has been compiled for  Play Battle Music
 [2025.06.11-09.08.45:518][296]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.06.11-09.08.45:518][296]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.06.11-09.08.45:518][296]LogPakFile: Destroying PakPlatformFile
+[2025.06.11-09.08.46:011][296]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.11-09.08.46:114][296]LogExit: Exiting.
+[2025.06.11-09.08.46:172][296]Log file closed, 06/11/25 03:08:46
